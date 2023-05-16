@@ -1,4 +1,4 @@
-import React, { memo } from "react";
+import { memo } from "react";
 import { Button, Menu, MenuButton, MenuItem, MenuList } from "@chakra-ui/react";
 import { ChevronDownIcon } from "@chakra-ui/icons";
 import { changeLanguage } from "../../store/languageSlice";

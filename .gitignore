@@ -27,3 +27,7 @@ npm-debug.log
 *.njsproj
 *.sln
 *.sw?
+
+
+**/*.firebaserc
+**/firebase*

@@ -17,7 +17,7 @@ const Home = () => {
   return (
     <Suspense fallback="Loading...">
       <Navbar />
-      <div style={{ height: "50vh" }}>
+      <div style={{ height: "90vh" }}>
         <ReactFlow nodes={treeData?.nodes} edges={treeData?.edges} fitView>
           <Controls />
           <Background color="#aaa" gap={16} />

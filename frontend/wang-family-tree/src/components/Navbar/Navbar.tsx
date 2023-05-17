@@ -31,12 +31,24 @@ const Navbar = () => {
                   </MenuButton>
                   <MenuList>
                     <MenuItem
-                      onClick={() => dispatch(changeLanguage("English"))}
+                      onClick={() => {
+                        dispatch(changeLanguage("English"));
+                        localStorage.setItem(
+                          "wang-family-tree-lang",
+                          "English"
+                        );
+                      }}
                     >
                       English
                     </MenuItem>
                     <MenuItem
-                      onClick={() => dispatch(changeLanguage("Chinese"))}
+                      onClick={() => {
+                        dispatch(changeLanguage("Chinese"));
+                        localStorage.setItem(
+                          "wang-family-tree-lang",
+                          "Chinese"
+                        );
+                      }}
                     >
                       中文
                     </MenuItem>

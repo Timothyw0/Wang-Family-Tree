@@ -1,10 +1,20 @@
-import Routes from "./routes/Routes";
+import { useEffect } from "react";
+import { useAppDispatch } from "./hooks/reduxHooks";
+import { changeLanguage } from "./store/languageSlice";
 import { useAxiosLoader } from "./hooks/useAxiosLoader";
 import { ChakraProvider, Spinner } from "@chakra-ui/react";
+import Routes from "./routes/Routes";
 import "./App.css";
 
 function App() {
   const [isLoading] = useAxiosLoader();
+  const dispatch = useAppDispatch();
+
+  useEffect(() => {
+    dispatch(
+      changeLanguage(localStorage.getItem("wang-family-tree-lang") || "English")
+    );
+  }, []);
 
   return (
     <ChakraProvider>

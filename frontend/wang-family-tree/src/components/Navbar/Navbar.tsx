@@ -7,7 +7,7 @@ import { useAppDispatch } from "../../hooks/reduxHooks";
 import "./Navbar.css";
 
 const Navbar = () => {
-  const textLang = useLanguageSelector("navbar");
+  const { textLang } = useLanguageSelector("navbar");
   const dispatch = useAppDispatch();
 
   return (

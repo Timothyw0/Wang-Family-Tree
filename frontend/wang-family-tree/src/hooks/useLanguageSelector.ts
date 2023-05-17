@@ -1,9 +1,15 @@
-import { navbarChinese, navbarEnglish } from "../assets/data/translations";
+import {
+  bioChinese,
+  bioEnglish,
+  navbarChinese,
+  navbarEnglish,
+} from "../assets/data/translations";
 import { useAppSelector } from "./reduxHooks";
 
 export const useLanguageSelector = (page: string = "") => {
   const pageMapping: any = {
     navbar: [navbarEnglish, navbarChinese],
+    bio: [bioEnglish, bioChinese],
   };
   const language = useAppSelector((state) => state.language.value);
 

@@ -10,20 +10,20 @@ const Navbar = () => {
   const dispatch = useAppDispatch();
 
   return (
-    <nav className="relative flex flex-wrap items-center justify-between px-2 py-3 bg-cyan-500 mb-3">
-      <div className="container px-4 mx-auto flex flex-wrap items-center justify-between">
+    <nav className="relative flex flex-wrap items-center justify-between px-2 py-3 bg-cyan-500">
+      <div className="container px-4 mx-auto flex items-center justify-between">
         <div className="w-full relative flex justify-between lg:w-auto lg:static lg:block lg:justify-start">
           <span className="lg:text-3xl sm:text-sm font-bold leading-relaxed inline-block py-2 whitespace-nowrap uppercase text-white">
             {textLang.title}
           </span>
         </div>
-        <div className="lg:flex flex-grow items-center sm:hidden">
+        <div className="lg:flex flex-grow items-center pr-5">
           <ul className="flex flex-col lg:flex-row list-none lg:ml-auto">
             <li className="nav-item">
               <a className="flex items-center lg:text-base sm:text-sm uppercase font-bold leading-snug">
                 <Menu>
                   <MenuButton as={Button} rightIcon={<ChevronDownIcon />}>
-                    {textLang.switchLanguage}
+                    <span className="text-xs">{textLang.switchLanguage}</span>
                   </MenuButton>
                   <MenuList>
                     <MenuItem

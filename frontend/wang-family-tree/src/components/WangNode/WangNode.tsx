@@ -1,5 +1,6 @@
 import { memo } from "react";
 import { StarIcon } from "@chakra-ui/icons";
+import { Link } from "react-router-dom";
 import { Handle, Position } from "reactflow";
 import { useLanguageSelector } from "../../hooks/useLanguageSelector";
 
@@ -17,11 +18,11 @@ const WangNode = ({ data }: { data: any }) => {
         <p style={{ color: name?.isMale ? "red" : "green" }}>
           {name?.isWang && <StarIcon />}
           {name?.hasBio ? (
-            <a href="#" className="underline hover:no-underline">
+            <Link to={`/${name?.id}`} className="underline hover:no-underline">
               {language === "English"
                 ? name?.name?.english
                 : name?.name?.chinese}
-            </a>
+            </Link>
           ) : language === "English" ? (
             name?.name?.english
           ) : (

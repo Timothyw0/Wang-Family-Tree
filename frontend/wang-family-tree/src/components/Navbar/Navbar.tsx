@@ -1,5 +1,6 @@
 import { memo } from "react";
 import { Button, Menu, MenuButton, MenuItem, MenuList } from "@chakra-ui/react";
+import { Link } from "react-router-dom";
 import { ChevronDownIcon } from "@chakra-ui/icons";
 import { changeLanguage } from "../../store/languageSlice";
 import { useLanguageSelector } from "../../hooks/useLanguageSelector";
@@ -15,7 +16,9 @@ const Navbar = () => {
       <div className="container px-4 mx-auto flex items-center justify-between">
         <div className="w-full relative flex justify-between lg:w-auto lg:static lg:block lg:justify-start">
           <span className="lg:text-3xl sm:text-sm font-bold leading-relaxed inline-block py-2 whitespace-nowrap uppercase text-white">
-            {textLang.title}
+            <Link to="/" className="underline hover:no-underline">
+              {textLang.title}
+            </Link>
           </span>
         </div>
         <div className="lg:flex flex-grow items-center pr-5">

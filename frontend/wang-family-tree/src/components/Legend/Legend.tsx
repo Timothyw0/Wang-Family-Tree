@@ -41,7 +41,7 @@ const Legend = () => {
           <Box>
             <Heading size="sm">Star</Heading>
             <Text pt="2" fontSize="xs">
-              Something
+              Is Wang Family
             </Text>
           </Box>
           <Box>

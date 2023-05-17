@@ -6,7 +6,8 @@ import {
   Navigate,
 } from "react-router-dom";
 
-const Home = lazy(() => import("../src/pages/Home"));
+const Home = lazy(() => import("../pages/Home"));
+const MemberBio = lazy(() => import("../pages/MemberBio"));
 
 const Routes: React.FC = () => {
   return (
@@ -14,7 +15,8 @@ const Routes: React.FC = () => {
       <BrowserRouter>
         <RouterRoutes>
           <Route path="/" element={<Home />} />
-          <Route path="*" element={<Navigate to="/home" />} />
+          <Route path="/:memberId" element={<MemberBio />} />
+          <Route path="*" element={<Navigate to="/" />} />
         </RouterRoutes>
       </BrowserRouter>
     </Suspense>

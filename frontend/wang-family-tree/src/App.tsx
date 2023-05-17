@@ -1,4 +1,4 @@
-import Routes from "../routes/Routes";
+import Routes from "./routes/Routes";
 import { useAxiosLoader } from "./hooks/useAxiosLoader";
 import { ChakraProvider, Spinner } from "@chakra-ui/react";
 import "./App.css";

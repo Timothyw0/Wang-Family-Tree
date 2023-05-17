@@ -1,5 +1,5 @@
 import { lazy, memo, useEffect, useState, Suspense } from "react";
-import ReactFlow, { Controls, Background } from "reactflow";
+import ReactFlow, { Background } from "reactflow";
 import apiService from "../../interfaces/axiosService";
 import "reactflow/dist/style.css";
 import styles from "./Home.module.css";
@@ -21,7 +21,6 @@ const Home = () => {
       <Navbar />
       <div className={styles.flowGraph}>
         <ReactFlow nodes={treeData?.nodes} edges={treeData?.edges} fitView>
-          <Controls />
           <Background color="#aaa" gap={16} />
         </ReactFlow>
         <div className={styles.legend}>

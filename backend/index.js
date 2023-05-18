@@ -1,6 +1,7 @@
 const express = require("express");
 const cors = require("cors");
 const path = require("path");
+const functions = require("./functions");
 const family = require("./routes/family.js");
 
 const PORT = process.env.PORT || 5050;
@@ -23,3 +24,5 @@ app.listen(PORT, () => {
   console.log(`Server is running on port: ${PORT}`);
   console.log("Hello world!");
 });
+
+exports.app = functions.https.onRequest(app);

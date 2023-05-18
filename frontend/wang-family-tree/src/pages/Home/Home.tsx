@@ -1,7 +1,7 @@
 import { lazy, memo, useEffect, useMemo, useState, Suspense } from "react";
 import ReactFlow, { Background } from "reactflow";
-import apiService from "../../interfaces/axiosService";
 import WangNode from "../../components/WangNode";
+import treeJSON from "../../assets/data/familyTree.json";
 import "reactflow/dist/style.css";
 import styles from "./Home.module.css";
 
@@ -13,9 +13,10 @@ const Home = () => {
   const nodeTypes = useMemo(() => ({ wangNode: WangNode }), []);
 
   useEffect(() => {
-    apiService.getTree().then(({ data }) => {
-      setTreeData(data);
-    });
+    // apiService.getTree().then(({ data }) => {
+    // setTreeData(data);
+    // });
+    setTreeData(treeJSON);
   }, []);
 
   return (

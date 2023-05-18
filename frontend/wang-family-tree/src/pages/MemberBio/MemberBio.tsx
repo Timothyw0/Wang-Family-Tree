@@ -7,7 +7,8 @@ import {
   Image,
   Text,
 } from "@chakra-ui/react";
-import apiService from "../../interfaces/axiosService";
+// import apiService from "../../interfaces/axiosService";
+import memberJSON from "../../assets/data/familyMembers.json";
 import { useNavigate, useParams } from "react-router-dom";
 import { useLanguageSelector } from "../../hooks/useLanguageSelector";
 
@@ -35,13 +36,19 @@ const MemberBio = ({ data = {} }) => {
   };
 
   useEffect(() => {
-    if (!memberId) return;
-    apiService
-      .getPerson(memberId)
-      .then(({ data }) => {
-        setMemberData(data);
-      })
-      .catch(handleError);
+    // if (!memberId) return;
+    // apiService
+    //   .getPerson(memberId)
+    //   .then(({ data }) => {
+    // setMemberData(data);
+    //   })
+    //   .catch(handleError);
+    const reqPerson = memberJSON?.find((psn) => psn?.memberId === memberId);
+    if (reqPerson) {
+      setMemberData(reqPerson);
+    } else {
+      handleError();
+    }
   }, []);
 
   return (

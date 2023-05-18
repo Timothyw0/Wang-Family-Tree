@@ -1,0 +1,78 @@
+{
+    "nodes": [
+      {
+        "id": "0",
+        "type": "wangNode",
+        "data": {
+          "names": [
+            {
+              "name": {
+                "chinese": "振宗王府君",
+                "english": "Wang"
+              },
+              "id": 0,
+              "isWang": true,
+              "isMale": true,
+              "hasBio": true
+            },
+            {
+              "name": {
+                "chinese": "张太君",
+                "english": "Not Wang"
+              },
+              "id": 1,
+              "isMale": false
+            }
+          ]
+        },
+        "position": {
+          "x": 0,
+          "y": 0
+        }
+      },
+      {
+        "id": "1",
+        "type": "wangNode",
+        "data": {
+          "names": [
+            {
+              "name": {
+                "chinese": "铭王府君",
+                "english": "Wang"
+              },
+              "isWang": true,
+              "isMale": true,
+              "id": 2
+            },
+            {
+              "name": {
+                "chinese": "历太君",
+                "english": "Not Wang"
+              },
+              "isMale": false,
+              "id": 3
+            },
+            {
+              "name": {
+                "chinese": "张太君",
+                "english": "Not Wang"
+              },
+              "isMale": false,
+              "id": 4
+            }
+          ]
+        },
+        "position": {
+          "x": 0,
+          "y": 150
+        }
+      }
+    ],
+    "edges": [
+      {
+        "id": "e0-1",
+        "source": "0",
+        "target": "1"
+      }
+    ]
+  }

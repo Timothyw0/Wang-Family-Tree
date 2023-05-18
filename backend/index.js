@@ -1,13 +1,10 @@
-import express from "express";
-import cors from "cors";
-import family from "./routes/family.mjs";
-import { fileURLToPath } from "url";
-import path, { dirname } from "path";
+const express = require("express");
+const cors = require("cors");
+const path = require("path");
+const family = require("./routes/family.js");
 
 const PORT = process.env.PORT || 5050;
 const app = express();
-const __filename = fileURLToPath(import.meta.url);
-const __dirname = dirname(__filename);
 
 app.use(cors());
 app.use(express.json());

@@ -3,13 +3,14 @@ import { StarIcon } from "@chakra-ui/icons";
 import { Link } from "react-router-dom";
 import { Handle, Position } from "reactflow";
 import { useLanguageSelector } from "../../hooks/useLanguageSelector";
+import "./WangNode.css";
 
 const WangNode = ({ data }: { data: any }) => {
   const { language } = useLanguageSelector();
 
-  const nodeBody = data?.names?.map((name: any) => {
+  const nodeBody = data?.names?.map((name: any, index: number) => {
     return (
-      <>
+      <div key={index}>
         <Handle
           type="target"
           position={Position.Top}
@@ -34,11 +35,16 @@ const WangNode = ({ data }: { data: any }) => {
           position={Position.Bottom}
           style={{ background: "#555" }}
         />
-      </>
+        <Handle
+          type="target"
+          position={Position.Bottom}
+          style={{ background: "#555" }}
+        />
+      </div>
     );
   });
 
-  return <div style={{ textAlign: "center" }}>{nodeBody}</div>;
+  return <div>{nodeBody}</div>;
 };
 
 export default memo(WangNode);

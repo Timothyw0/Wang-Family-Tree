@@ -14,6 +14,11 @@ const Home = () => {
   const [treeData, setTreeData] = useState<any>(undefined);
   const nodeTypes = useMemo(() => ({ wangNode: WangNode }), []);
 
+  const documentHeight = () => {
+    const doc = document.documentElement;
+    doc.style.setProperty("--doc-height", `${window.innerHeight}px`);
+  };
+
   const downloadImage = async () => {
     const reactFlow: HTMLElement = document.querySelector(".react-flow")!;
     const reactPicture = await toPng(reactFlow);
@@ -30,7 +35,10 @@ const Home = () => {
     // apiService.getTree().then(({ data }) => {
     // setTreeData(data);
     // });
+    window.addEventListener("resize", documentHeight);
+    documentHeight();
     setTreeData(treeJSON);
+    return () => window.removeEventListener("resize", documentHeight);
   }, []);
 
   return (
@@ -57,7 +65,7 @@ const Home = () => {
           fitView
         >
           <Background color="#aaa" gap={16} />
-          <Panel position="bottom-right">
+          <Panel position="bottom-right" className="py-10">
             <Button onClick={downloadImage}>Download Image</Button>
           </Panel>
         </ReactFlow>

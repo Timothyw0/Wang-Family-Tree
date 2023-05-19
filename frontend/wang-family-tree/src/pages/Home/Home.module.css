@@ -5,5 +5,5 @@
 }
 
 .flowGraph {
-  height: calc(100vh - 76px);
+  height: calc(var(--doc-height) - 76px);
 }

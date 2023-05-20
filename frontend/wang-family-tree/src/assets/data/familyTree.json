@@ -1,78 +1,184 @@
 {
-    "nodes": [
-      {
-        "id": "0",
-        "type": "wangNode",
-        "data": {
-          "names": [
-            {
-              "name": {
-                "chinese": "振宗王府君",
-                "english": "Wang"
-              },
-              "id": 0,
-              "isWang": true,
-              "isMale": true,
-              "hasBio": true
+  "nodes": [
+    {
+      "id": "0",
+      "type": "wangNode",
+      "data": {
+        "names": [
+          {
+            "name": {
+              "chinese": "振宗王府君",
+              "english": "Zheng Zong Wang Fu Jun"
             },
-            {
-              "name": {
-                "chinese": "张太君",
-                "english": "Not Wang"
-              },
-              "id": 1,
-              "isMale": false
-            }
-          ]
-        },
-        "position": {
-          "x": 0,
-          "y": 0
-        }
+            "id": 0,
+            "isWang": true,
+            "isMale": true,
+            "hasBio": true
+          },
+          {
+            "name": {
+              "chinese": "张太君",
+              "english": "Zhang Tai Jun"
+            },
+            "id": 1,
+            "isMale": false
+          }
+        ]
       },
-      {
-        "id": "1",
-        "type": "wangNode",
-        "data": {
-          "names": [
-            {
-              "name": {
-                "chinese": "铭王府君",
-                "english": "Wang"
-              },
-              "isWang": true,
-              "isMale": true,
-              "id": 2
-            },
-            {
-              "name": {
-                "chinese": "历太君",
-                "english": "Not Wang"
-              },
-              "isMale": false,
-              "id": 3
-            },
-            {
-              "name": {
-                "chinese": "张太君",
-                "english": "Not Wang"
-              },
-              "isMale": false,
-              "id": 4
-            }
-          ]
-        },
-        "position": {
-          "x": 0,
-          "y": 150
-        }
+      "position": {
+        "x": 0,
+        "y": 0
       }
-    ],
-    "edges": [
-      {
-        "id": "e0-1",
-        "source": "0",
-        "target": "1"
+    },
+    {
+      "id": "1",
+      "type": "wangNode",
+      "data": {
+        "names": [
+          {
+            "name": {
+              "chinese": "镛王府君",
+              "english": "Wang"
+            },
+            "isWang": true,
+            "isMale": true,
+            "id": 2
+          },
+          {
+            "name": {
+              "chinese": "杨太君",
+              "english": "Not Wang"
+            },
+            "isMale": false,
+            "id": 3
+          }
+        ]
+      },
+      "position": {
+        "x": -300,
+        "y": 200
       }
-    ]
-  }
+    },
+    {
+      "id": "2",
+      "type": "wangNode",
+      "data": {
+        "names": [
+          {
+            "name": {
+              "chinese": "钧王府君",
+              "english": "Wang"
+            },
+            "isWang": true,
+            "isMale": true,
+            "id": 4
+          },
+          {
+            "name": {
+              "chinese": "史太君",
+              "english": "Not Wang"
+            },
+            "isMale": false,
+            "id": 5
+          },
+          {
+            "name": {
+              "chinese": "马太君",
+              "english": "Not Wang"
+            },
+            "isMale": false,
+            "id": 6
+          }
+        ]
+      },
+      "position": {
+        "x": -100,
+        "y": 200
+      }
+    },
+    {
+      "id": "3",
+      "type": "wangNode",
+      "data": {
+        "names": [
+          {
+            "name": {
+              "chinese": "铭王府君",
+              "english": "Wang"
+            },
+            "isWang": true,
+            "isMale": true,
+            "id": 7
+          },
+          {
+            "name": {
+              "chinese": "历太君",
+              "english": "Not Wang"
+            },
+            "isMale": false,
+            "id": 8
+          },
+          {
+            "name": {
+              "chinese": "张太君",
+              "english": "Not Wang"
+            },
+            "isMale": false,
+            "id": 9
+          }
+        ]
+      },
+      "position": {
+        "x": 100,
+        "y": 200
+      }
+    },
+    {
+      "id": "4",
+      "type": "wangNode",
+      "data": {
+        "names": [
+          {
+            "name": {
+              "chinese": "铎王府君",
+              "english": "Wang"
+            },
+            "isWang": true,
+            "isMale": true,
+            "id": 8
+          },
+          {
+            "name": {
+              "chinese": "张太君",
+              "english": "Not Wang"
+            },
+            "isMale": false,
+            "id": 9
+          }
+        ]
+      },
+      "position": {
+        "x": 300,
+        "y": 200
+      }
+    }
+  ],
+  "edges": [
+    {
+      "source": "0",
+      "target": "1"
+    },
+    {
+      "source": "0",
+      "target": "2"
+    },
+    {
+      "source": "0",
+      "target": "3"
+    },
+    {
+      "source": "0",
+      "target": "4"
+    }
+  ]
+}

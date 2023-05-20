@@ -69,7 +69,15 @@ const Home = () => {
               })),
             [treeData]
           )}
-          edges={treeData?.edges}
+          edges={useMemo(
+            () =>
+              treeData?.edges?.map((elem: any) => ({
+                ...elem,
+                id: `e-${elem?.source}-${elem?.target}`,
+                type: "step",
+              })),
+            [treeData]
+          )}
           nodeTypes={nodeTypes}
           nodesConnectable={false}
           fitView

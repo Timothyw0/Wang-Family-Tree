@@ -5,6 +5,7 @@ import {
   CardBody,
   Heading,
   Image,
+  SimpleGrid,
   Text,
 } from "@chakra-ui/react";
 // import apiService from "../../interfaces/axiosService";
@@ -22,7 +23,7 @@ const MemberBio = ({ data = {} }) => {
   const toast = useToast();
 
   const noPicture =
-    "https://lh3.googleusercontent.com/9s-zOPXFh6SnHz27ihgPr24IToqBQ1_9tdlY3XdVj5VKXg37sBkI0chIRMfn5J-j8i2MkiY8KqtOfnV5mxkb9bbq-kCyGcTuiJtGMlS14jwYPIFEiPVvxcPSz4uCu_z79uXDOyaA_g=w2400";
+    "https://wang-photo.s3.ap-southeast-1.amazonaws.com/blank-image.jpg";
 
   const handleError = () => {
     toast({
@@ -43,6 +44,7 @@ const MemberBio = ({ data = {} }) => {
     // setMemberData(data);
     //   })
     //   .catch(handleError);
+    if (!memberId) return;
     const reqPerson = memberJSON?.find((psn) => psn?.memberId === memberId);
     if (reqPerson) {
       setMemberData(reqPerson);
@@ -55,13 +57,31 @@ const MemberBio = ({ data = {} }) => {
     <Suspense fallback="">
       <Navbar />
       <div className="content-center py-5">
-        <Card maxW="sm" className="m-auto content-center">
+        <Card maxW="lg" className="m-auto content-center">
           <CardBody>
-            <Image
-              src={memberData?.photoURL || noPicture}
-              borderRadius="lg"
-              referrerPolicy="no-referrer"
-            />
+            <SimpleGrid
+              minChildWidth="120px"
+              spacing={8}
+              alignContent="center"
+              alignItems="center"
+            >
+              {memberData?.photoURLs && memberData?.photoURLs?.length ? (
+                memberData.photoURLs.map((photo: any, index: number) => (
+                  <Image
+                    key={`${memberData?.memberId}-photo-${index}`}
+                    src={photo}
+                    borderRadius="lg"
+                    referrerPolicy="no-referrer"
+                  />
+                ))
+              ) : (
+                <Image
+                  src={memberData?.photoURL || noPicture}
+                  borderRadius="lg"
+                  referrerPolicy="no-referrer"
+                />
+              )}
+            </SimpleGrid>
             <Heading size="lg" className="text-center py-2">
               {language === "English"
                 ? memberData?.name?.english

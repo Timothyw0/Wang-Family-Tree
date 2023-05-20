@@ -8,6 +8,14 @@
     "bio": {
       "chinese": "Chinese bio here",
       "english": "English bio here"
-    }
+    },
+    "photoURLs": [
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/blank-image.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/LBXX.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/blank-image.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/blank-image.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/LBXX.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/LBXX.jpg"
+    ]
   }
 ]

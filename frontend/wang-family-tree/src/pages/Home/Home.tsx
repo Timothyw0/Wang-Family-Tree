@@ -21,7 +21,17 @@ const Home = () => {
 
   const downloadImage = async () => {
     const reactFlow: HTMLElement = document.querySelector(".react-flow")!;
-    const reactPicture = await toPng(reactFlow);
+    const reactPicture = await toPng(reactFlow, {
+      filter: (node) => {
+        if (
+          node?.classList?.contains("react-flow__panel") ||
+          node?.classList?.contains("chakra-button")
+        )
+          return false;
+        return true;
+      },
+      backgroundColor: "#fff",
+    });
     const a = document.createElement("a");
 
     a.setAttribute("download", "Wang-Family-Tree.png");

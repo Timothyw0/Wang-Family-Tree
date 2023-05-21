@@ -60,6 +60,7 @@ const Home = () => {
             () =>
               treeData?.nodes?.map((elem: any) => ({
                 ...elem,
+                type: "wangNode",
                 style: {
                   border: "1px solid #777",
                   padding: 10,

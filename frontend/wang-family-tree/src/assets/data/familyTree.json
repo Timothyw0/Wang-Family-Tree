@@ -2,7 +2,6 @@
   "nodes": [
     {
       "id": "0",
-      "type": "wangNode",
       "data": {
         "names": [
           {
@@ -32,7 +31,6 @@
     },
     {
       "id": "1",
-      "type": "wangNode",
       "data": {
         "names": [
           {
@@ -55,13 +53,12 @@
         ]
       },
       "position": {
-        "x": -300,
+        "x": -450,
         "y": 200
       }
     },
     {
       "id": "2",
-      "type": "wangNode",
       "data": {
         "names": [
           {
@@ -92,13 +89,12 @@
         ]
       },
       "position": {
-        "x": -100,
+        "x": -150,
         "y": 200
       }
     },
     {
       "id": "3",
-      "type": "wangNode",
       "data": {
         "names": [
           {
@@ -129,13 +125,12 @@
         ]
       },
       "position": {
-        "x": 100,
+        "x": 150,
         "y": 200
       }
     },
     {
       "id": "4",
-      "type": "wangNode",
       "data": {
         "names": [
           {
@@ -158,8 +153,440 @@
         ]
       },
       "position": {
-        "x": 300,
+        "x": 450,
         "y": 200
+      }
+    },
+    {
+      "id": "5",
+      "data": {
+        "names": [
+          {
+            "name": {
+              "chinese": "王宽裕",
+              "english": "Wang"
+            },
+            "isWang": true,
+            "isMale": true,
+            "id": 10
+          },
+          {
+            "name": {
+              "chinese": "刘太君",
+              "english": "Not Wang"
+            },
+            "isMale": false,
+            "id": 11
+          }
+        ]
+      },
+      "position": {
+        "x": -450,
+        "y": 400
+      }
+    },
+    {
+      "id": "6",
+      "data": {
+        "names": [
+          {
+            "name": {
+              "chinese": "王兴裕",
+              "english": "Wang"
+            },
+            "isWang": true,
+            "isMale": true,
+            "id": 12
+          },
+          {
+            "name": {
+              "chinese": "顾太君",
+              "english": "Not Wang"
+            },
+            "isMale": false,
+            "id": 13
+          }
+        ]
+      },
+      "position": {
+        "x": -150,
+        "y": 400
+      }
+    },
+    {
+      "id": "7",
+      "data": {
+        "names": [
+          {
+            "name": {
+              "chinese": "王永裕",
+              "english": "Wang"
+            },
+            "isWang": true,
+            "isMale": true,
+            "id": 14
+          },
+          {
+            "name": {
+              "chinese": "傅太君",
+              "english": "Not Wang"
+            },
+            "isMale": false,
+            "id": 15
+          }
+        ]
+      },
+      "position": {
+        "x": 150,
+        "y": 400
+      }
+    },
+    {
+      "id": "8",
+      "data": {
+        "names": [
+          {
+            "name": {
+              "chinese": "王广裕",
+              "english": "Wang"
+            },
+            "isWang": true,
+            "isMale": true,
+            "id": 16
+          },
+          {
+            "name": {
+              "chinese": "王太君",
+              "english": "Not Wang"
+            },
+            "isMale": false,
+            "id": 17
+          },
+          {
+            "name": {
+              "chinese": "傅太君",
+              "english": "Not Wang"
+            },
+            "isMale": false,
+            "id": 18
+          }
+        ]
+      },
+      "position": {
+        "x": 350,
+        "y": 400
+      }
+    },
+    {
+      "id": "9",
+      "data": {
+        "names": [
+          {
+            "name": {
+              "chinese": "王德裕",
+              "english": "Wang"
+            },
+            "isWang": true,
+            "isMale": true,
+            "id": 19
+          },
+          {
+            "name": {
+              "chinese": "李太君",
+              "english": "Not Wang"
+            },
+            "isMale": false,
+            "id": 20
+          }
+        ]
+      },
+      "position": {
+        "x": 550,
+        "y": 400
+      }
+    },
+    {
+      "id": "10",
+      "data": {
+        "names": [
+          {
+            "name": {
+              "chinese": "王治",
+              "english": "Wang"
+            },
+            "isWang": true,
+            "isMale": true,
+            "id": 21
+          },
+          {
+            "name": {
+              "chinese": "石太君",
+              "english": "Not Wang"
+            },
+            "isMale": false,
+            "id": 22
+          }
+        ]
+      },
+      "position": {
+        "x": -450,
+        "y": 600
+      }
+    },
+    {
+      "id": "11",
+      "data": {
+        "names": [
+          {
+            "name": {
+              "chinese": "王洪",
+              "english": "Wang"
+            },
+            "isWang": true,
+            "isMale": true,
+            "id": 23
+          },
+          {
+            "name": {
+              "chinese": "王太君",
+              "english": "Not Wang"
+            },
+            "isMale": false,
+            "id": 24
+          },
+          {
+            "name": {
+              "chinese": "毛太君",
+              "english": "Not Wang"
+            },
+            "isMale": false,
+            "id": 25
+          },
+          {
+            "name": {
+              "chinese": "樊太君",
+              "english": "Not Wang"
+            },
+            "isMale": false,
+            "id": 26
+          }
+        ]
+      },
+      "position": {
+        "x": -150,
+        "y": 600
+      }
+    },
+    {
+      "id": "12",
+      "data": {
+        "names": [
+          {
+            "name": {
+              "chinese": "王浚",
+              "english": "Wang"
+            },
+            "isWang": true,
+            "isMale": true,
+            "id": 27
+          },
+          {
+            "name": {
+              "chinese": "张太君",
+              "english": "Not Wang"
+            },
+            "isMale": false,
+            "id": 28
+          }
+        ]
+      },
+      "position": {
+        "x": 150,
+        "y": 600
+      }
+    },
+    {
+      "id": "13",
+      "data": {
+        "names": [
+          {
+            "name": {
+              "chinese": "王涛",
+              "english": "Wang"
+            },
+            "isWang": true,
+            "isMale": true,
+            "id": 29
+          },
+          {
+            "name": {
+              "chinese": "刘太君",
+              "english": "Not Wang"
+            },
+            "isMale": false,
+            "id": 30
+          }
+        ]
+      },
+      "position": {
+        "x": 350,
+        "y": 600
+      }
+    },
+    {
+      "id": "14",
+      "data": {
+        "names": [
+          {
+            "name": {
+              "chinese": "王灏",
+              "english": "Wang"
+            },
+            "isWang": true,
+            "isMale": true,
+            "id": 31
+          },
+          {
+            "name": {
+              "chinese": "田太君",
+              "english": "Not Wang"
+            },
+            "isMale": false,
+            "id": 32
+          },
+          {
+            "name": {
+              "chinese": "朱太君",
+              "english": "Not Wang"
+            },
+            "isMale": false,
+            "id": 33
+          }
+        ]
+      },
+      "position": {
+        "x": 550,
+        "y": 600
+      }
+    },
+    {
+      "id": "15",
+      "data": {
+        "names": [
+          {
+            "name": {
+              "chinese": "王廷选",
+              "english": "Wang"
+            },
+            "isWang": true,
+            "isMale": true,
+            "id": 34
+          },
+          {
+            "name": {
+              "chinese": "梅太君",
+              "english": "Not Wang"
+            },
+            "isMale": false,
+            "id": 35
+          },
+          {
+            "name": {
+              "chinese": "王太君",
+              "english": "Not Wang"
+            },
+            "isMale": false,
+            "id": 36
+          }
+        ]
+      },
+      "position": {
+        "x": 150,
+        "y": 800
+      }
+    },
+    {
+      "id": "16",
+      "data": {
+        "names": [
+          {
+            "name": {
+              "chinese": "王青选",
+              "english": "Wang"
+            },
+            "isWang": true,
+            "isMale": true,
+            "id": 37
+          },
+          {
+            "name": {
+              "chinese": "张太君",
+              "english": "Not Wang"
+            },
+            "isMale": false,
+            "id": 38
+          }
+        ]
+      },
+      "position": {
+        "x": 350,
+        "y": 800
+      }
+    },
+    {
+      "id": "17",
+      "data": {
+        "names": [
+          {
+            "name": {
+              "chinese": "王槐荫(午亭)",
+              "english": "Wang"
+            },
+            "isWang": true,
+            "isMale": true,
+            "id": 39
+          },
+          {
+            "name": {
+              "chinese": "祝书琴",
+              "english": "Not Wang"
+            },
+            "isMale": false,
+            "id": 40
+          }
+        ]
+      },
+      "position": {
+        "x": 150,
+        "y": 1000
+      }
+    },
+    {
+      "id": "18",
+      "data": {
+        "names": [
+          {
+            "name": {
+              "chinese": "王曾荫",
+              "english": "Wang"
+            },
+            "isWang": true,
+            "isMale": true,
+            "id": 41
+          },
+          {
+            "name": {
+              "chinese": "张太君",
+              "english": "Not Wang"
+            },
+            "isMale": false,
+            "id": 42
+          }
+        ]
+      },
+      "position": {
+        "x": 350,
+        "y": 1000
       }
     }
   ],
@@ -179,6 +606,62 @@
     {
       "source": "0",
       "target": "4"
+    },
+    {
+      "source": "1",
+      "target": "5"
+    },
+    {
+      "source": "2",
+      "target": "6"
+    },
+    {
+      "source": "3",
+      "target": "7"
+    },
+    {
+      "source": "4",
+      "target": "8"
+    },
+    {
+      "source": "4",
+      "target": "9"
+    },
+    {
+      "source": "5",
+      "target": "10"
+    },
+    {
+      "source": "6",
+      "target": "11"
+    },
+    {
+      "source": "7",
+      "target": "12"
+    },
+    {
+      "source": "8",
+      "target": "13"
+    },
+    {
+      "source": "9",
+      "target": "14"
+    },
+    {
+      "source": "14",
+      "target": "15"
+    },
+    {
+      "source": "13",
+      "target": "16"
+    },
+    {
+      "source": "15",
+      "target": "17"
+    },
+    {
+      "source": "16",
+      "target": "18"
     }
   ]
 }

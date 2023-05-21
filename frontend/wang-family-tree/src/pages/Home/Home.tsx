@@ -81,6 +81,7 @@ const Home = () => {
           )}
           nodeTypes={nodeTypes}
           nodesConnectable={false}
+          minZoom={0}
           fitView
         >
           <Background color="#aaa" gap={16} />

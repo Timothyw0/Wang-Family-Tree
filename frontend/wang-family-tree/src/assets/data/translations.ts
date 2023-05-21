@@ -5,7 +5,7 @@ export const navbarEnglish = {
 
 export const navbarChinese = {
   switchLanguage: "切换语言",
-  title: "王家谱",
+  title: "《帘子王》家族表",
 };
 
 export const bioEnglish = {

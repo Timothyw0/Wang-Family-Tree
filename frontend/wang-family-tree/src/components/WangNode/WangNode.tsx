@@ -8,14 +8,16 @@ import "./WangNode.css";
 const WangNode = ({ data }: { data: any }) => {
   const { language } = useLanguageSelector();
 
-  const nodeBody = data?.names?.map((name: any, index: number) => {
+  const isWangMale: boolean = data?.names?.[0]?.isMale || false;
+  const ageOrder = (
+    <strong style={{ color: isWangMale ? "red" : "green" }}>
+      {isWangMale ? data?.ageOrder : String.fromCharCode(data?.ageOrder + 64)}
+    </strong>
+  );
+
+  const nodeNames = data?.names?.map((name: any, index: number) => {
     return (
       <div key={index}>
-        <Handle
-          type="target"
-          position={Position.Top}
-          style={{ background: "#555" }}
-        />
         <p style={{ color: name?.isMale ? "red" : "green" }}>
           {name?.isWang && <StarIcon />}
           {name?.hasBio ? (
@@ -30,21 +32,31 @@ const WangNode = ({ data }: { data: any }) => {
             name?.name?.chinese
           )}
         </p>
-        <Handle
-          type="source"
-          position={Position.Bottom}
-          style={{ background: "#555" }}
-        />
-        <Handle
-          type="target"
-          position={Position.Bottom}
-          style={{ background: "#555" }}
-        />
       </div>
     );
   });
 
-  return <div>{nodeBody}</div>;
+  return (
+    <div>
+      <Handle
+        type="target"
+        position={Position.Top}
+        style={{ background: "#555" }}
+      />
+      {data?.ageOrder && ageOrder}
+      {nodeNames}
+      <Handle
+        type="source"
+        position={Position.Bottom}
+        style={{ background: "#555" }}
+      />
+      <Handle
+        type="target"
+        position={Position.Bottom}
+        style={{ background: "#555" }}
+      />
+    </div>
+  );
 };
 
 export default memo(WangNode);

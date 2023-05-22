@@ -6,8 +6,8 @@
       "english": "Wang Something"
     },
     "bio": {
-      "chinese": "Chinese bio here",
-      "english": "Born in ajsdlfjasldijfiajwerflijalsjdflij"
+      "chinese": ["Chinese bio here"],
+      "english": ["Born in ajsdlfjasldijfiajwerflijalsjdflij"]
     },
     "photoURLs": [
       "https://wang-photo.s3.ap-southeast-1.amazonaws.com/blank-image.jpg",
@@ -16,6 +16,24 @@
       "https://wang-photo.s3.ap-southeast-1.amazonaws.com/blank-image.jpg",
       "https://wang-photo.s3.ap-southeast-1.amazonaws.com/LBXX.jpg",
       "https://wang-photo.s3.ap-southeast-1.amazonaws.com/LBXX.jpg"
+    ]
+  },
+  {
+    "memberId": "98",
+    "name": {
+      "chinese": "王大明",
+      "english": "Timothy Wang"
+    },
+    "bio": {
+      "chinese": ["Chinese bio here"],
+      "english": [
+        "July 7, 1997 - Present",
+        "Timothy Wang was born in Flushing, NY. He grew up in South River, NJ and went to undergraduate college at Rensselaer Polytechnic Institue in Troy, NY studying Computer Science. He also attended Stevens Institute of Technology for a Master of Science degree in Computer Science."
+      ]
+    },
+    "photoURLs": [
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/TimothyWang1.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/TimothyWang2.jpg"
     ]
   }
 ]

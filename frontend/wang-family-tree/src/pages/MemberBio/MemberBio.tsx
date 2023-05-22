@@ -89,7 +89,13 @@ const MemberBio = ({ data = {} }) => {
             </Heading>
             <Text size="md" className="text-center py-2">
               {language === "English"
-                ? memberData?.bio?.english
+                ? memberData?.bio?.english?.map((bio: string) => (
+                    <>
+                      {bio}
+                      <br />
+                      <br />
+                    </>
+                  ))
                 : memberData?.bio?.chinese}
             </Text>
           </CardBody>

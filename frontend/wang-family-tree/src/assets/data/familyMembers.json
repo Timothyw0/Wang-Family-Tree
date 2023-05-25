@@ -47,7 +47,8 @@
     },
     "photoURLs": [
       "https://wang-photo.s3.ap-southeast-1.amazonaws.com/TimothyWang/1.jpg",
-      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/TimothyWang/2.jpg"
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/TimothyWang/2.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/TimothyWang/3.jpg"
     ]
   }
 ]

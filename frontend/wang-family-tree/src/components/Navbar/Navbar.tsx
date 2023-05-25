@@ -1,4 +1,4 @@
-import { memo } from "react";
+import { memo, useRef } from "react";
 import { Button, Menu, MenuButton, MenuItem, MenuList } from "@chakra-ui/react";
 import { Link } from "react-router-dom";
 import { ChevronDownIcon } from "@chakra-ui/icons";
@@ -8,8 +8,11 @@ import { useAppDispatch } from "../../hooks/reduxHooks";
 import "./Navbar.css";
 
 const Navbar = () => {
-  const { textLang } = useLanguageSelector("navbar");
+  const { language, textLang } = useLanguageSelector("navbar");
   const dispatch = useAppDispatch();
+
+  const chineseRef = useRef(null);
+  const englishRef = useRef(null);
 
   return (
     <nav className="relative flex flex-wrap items-center justify-between px-2 py-3 bg-cyan-500 wang-navbar">
@@ -25,12 +28,17 @@ const Navbar = () => {
           <ul className="flex flex-col lg:flex-row list-none lg:ml-auto">
             <li className="nav-item">
               <a className="flex items-center lg:text-base sm:text-sm uppercase font-bold leading-snug">
-                <Menu>
+                <Menu
+                  initialFocusRef={
+                    language === "English" ? englishRef : chineseRef
+                  }
+                >
                   <MenuButton as={Button} rightIcon={<ChevronDownIcon />}>
                     <span className="text-xs">{textLang.switchLanguage}</span>
                   </MenuButton>
                   <MenuList>
                     <MenuItem
+                      ref={englishRef}
                       onClick={() => {
                         dispatch(changeLanguage("English"));
                         localStorage.setItem(
@@ -42,6 +50,7 @@ const Navbar = () => {
                       English
                     </MenuItem>
                     <MenuItem
+                      ref={chineseRef}
                       onClick={() => {
                         dispatch(changeLanguage("Chinese"));
                         localStorage.setItem(

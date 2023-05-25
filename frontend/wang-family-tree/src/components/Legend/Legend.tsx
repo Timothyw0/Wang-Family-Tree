@@ -30,7 +30,7 @@ const Legend = () => {
       </CardHeader>
       <CardBody>
         <Stack divider={<StackDivider />} spacing="1">
-          {textLang?.legendItems?.map((item: any) => {
+          {textLang?.legendItems?.map((item: Array<string>) => {
             return (
               <Box>
                 <Heading size="sm">

@@ -10,8 +10,41 @@ import { Button } from "@chakra-ui/react";
 const Legend = lazy(() => import("../../components/Legend"));
 const Navbar = lazy(() => import("../../components/Navbar"));
 
+interface EdgeObject {
+  source: string;
+  target: string;
+}
+
+interface NameObject {
+  name: {
+    chinese: string;
+    english: string;
+  };
+  id: number;
+  isWang?: boolean;
+  isMale?: boolean;
+  hasBio?: boolean;
+}
+
+interface NodeObject {
+  id: string;
+  data: {
+    names: Array<NameObject>;
+    ageOrder?: number;
+  };
+  position: {
+    x: number;
+    y: number;
+  };
+}
+
+interface TreeObject {
+  nodes: Array<NodeObject>;
+  edges: Array<EdgeObject>;
+}
+
 const Home = () => {
-  const [treeData, setTreeData] = useState<any>(undefined);
+  const [treeData, setTreeData] = useState<TreeObject>();
   const nodeTypes = useMemo(() => ({ wangNode: WangNode }), []);
 
   const documentHeight = () => {
@@ -58,7 +91,7 @@ const Home = () => {
         <ReactFlow
           nodes={useMemo(
             () =>
-              treeData?.nodes?.map((elem: any) => ({
+              treeData?.nodes?.map((elem: NodeObject) => ({
                 ...elem,
                 type: "wangNode",
                 style: {
@@ -72,7 +105,7 @@ const Home = () => {
           )}
           edges={useMemo(
             () =>
-              treeData?.edges?.map((elem: any) => ({
+              treeData?.edges?.map((elem: EdgeObject) => ({
                 ...elem,
                 id: `e-${elem?.source}-${elem?.target}`,
                 type: "step",

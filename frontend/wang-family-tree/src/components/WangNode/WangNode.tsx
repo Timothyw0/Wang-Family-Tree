@@ -5,17 +5,43 @@ import { Handle, Position } from "reactflow";
 import { useLanguageSelector } from "../../hooks/useLanguageSelector";
 import "./WangNode.css";
 
-const WangNode = ({ data }: { data: any }) => {
+interface NameObject {
+  name: {
+    chinese: string;
+    english: string;
+  };
+  id: number;
+  isWang?: boolean;
+  isMale?: boolean;
+  hasBio?: boolean;
+}
+
+interface NodeObject {
+  id: string;
+  data: {
+    names: Array<NameObject>;
+    ageOrder?: number;
+  };
+  position?: {
+    x: number;
+    y: number;
+  };
+}
+
+const WangNode = (props: NodeObject) => {
+  const { data } = props;
   const { language } = useLanguageSelector();
 
   const isWangMale: boolean = data?.names?.[0]?.isMale || false;
   const ageOrder = (
     <strong style={{ color: isWangMale ? "red" : "green" }}>
-      {isWangMale ? data?.ageOrder : String.fromCharCode(data?.ageOrder + 64)}
+      {isWangMale
+        ? data?.ageOrder
+        : data?.ageOrder && String.fromCharCode(data?.ageOrder + 64)}
     </strong>
   );
 
-  const nodeNames = data?.names?.map((name: any, index: number) => {
+  const nodeNames = data?.names?.map((name: NameObject, index: number) => {
     return (
       <div key={index}>
         <p style={{ color: name?.isMale ? "red" : "green" }}>

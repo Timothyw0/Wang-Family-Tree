@@ -15,8 +15,23 @@ import { useLanguageSelector } from "../../hooks/useLanguageSelector";
 
 const Navbar = lazy(() => import("../../components/Navbar"));
 
-const MemberBio = ({ data = {} }) => {
-  const [memberData, setMemberData] = useState<any>(data);
+interface MemberObject {
+  memberId?: string;
+  name: {
+    chinese: string;
+    english: string;
+  };
+  bio?: {
+    chinese: Array<string>;
+    english: Array<string>;
+  };
+  photoURLs?: Array<string>;
+  photoURL?: string;
+}
+
+const MemberBio = (props: any) => {
+  const data: MemberObject = props?.data;
+  const [memberData, setMemberData] = useState<MemberObject>(data);
   const { memberId } = useParams();
   const { language, textLang } = useLanguageSelector("bio");
   const navigate = useNavigate();

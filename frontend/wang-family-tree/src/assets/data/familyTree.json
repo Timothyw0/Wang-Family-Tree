@@ -540,10 +540,11 @@
           {
             "name": {
               "chinese": "王槐荫(午亭)",
-              "english": "Wang"
+              "english": "Wang WuTing"
             },
             "isWang": true,
             "isMale": true,
+            "hasBio": true,
             "id": 39
           },
           {

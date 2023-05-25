@@ -64,6 +64,7 @@ const MemberBio = ({ data = {} }) => {
               spacing={8}
               alignContent="center"
               alignItems="center"
+              justifyItems="center"
             >
               {memberData?.photoURLs && memberData?.photoURLs?.length ? (
                 memberData.photoURLs.map((photo: any, index: number) => (

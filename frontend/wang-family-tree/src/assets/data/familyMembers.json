@@ -19,6 +19,20 @@
     ]
   },
   {
+    "memberId": "39",
+    "name": {
+      "chinese": "王槐荫(午亭)",
+      "english": "Wang WuTing"
+    },
+    "bio": {
+      "chinese": ["Chinese bio here"],
+      "english": ["English bio here"]
+    },
+    "photoURLs": [
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangWuTing/1.jpg"
+    ]
+  },
+  {
     "memberId": "98",
     "name": {
       "chinese": "王大明",
@@ -32,8 +46,8 @@
       ]
     },
     "photoURLs": [
-      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/TimothyWang1.jpg",
-      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/TimothyWang2.jpg"
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/TimothyWang/1.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/TimothyWang/2.jpg"
     ]
   }
 ]

@@ -1462,7 +1462,8 @@
             },
             "isWang": false,
             "isMale": false,
-            "id": 99
+            "id": 99,
+            "hasBio": true
           }
         ],
         "ageOrder": 1

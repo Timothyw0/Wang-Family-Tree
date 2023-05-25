@@ -50,5 +50,21 @@
       "https://wang-photo.s3.ap-southeast-1.amazonaws.com/TimothyWang/2.jpg",
       "https://wang-photo.s3.ap-southeast-1.amazonaws.com/TimothyWang/3.jpg"
     ]
+  },
+  {
+    "memberId": "99",
+    "name": {
+      "chinese": "沛欣",
+      "english": "Madeleine Herring"
+    },
+    "bio": {
+      "chinese": ["Chinese bio here"],
+      "english": ["November 23, 1997 - Present", "English bio here"]
+    },
+    "photoURLs": [
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/MadeleineHerring/1.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/MadeleineHerring/2.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/MadeleineHerring/3.jpg"
+    ]
   }
 ]

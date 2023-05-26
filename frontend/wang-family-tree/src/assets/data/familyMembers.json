@@ -33,6 +33,25 @@
     ]
   },
   {
+    "memberId": "89",
+    "name": {
+      "chinese": "王强",
+      "english": "Charlie Wang"
+    },
+    "bio": {
+      "chinese": [
+        "Chinese bio here",
+      "试一试",
+    "第二排"],
+      "english": ["English bio here",
+    "line number 1",
+  "line number 2"]
+    },
+    "photoURLs": [
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangWuTing/1.jpg"
+    ]
+  },
+  {
     "memberId": "98",
     "name": {
       "chinese": "王大明",

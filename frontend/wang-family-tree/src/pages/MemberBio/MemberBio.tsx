@@ -112,7 +112,13 @@ const MemberBio = (props: any) => {
                       <br />
                     </>
                   ))
-                : memberData?.bio?.chinese}
+                : memberData?.bio?.chinese?.map((bio: string) => (
+                    <>
+                      {bio}
+                      <br />
+                      <br />
+                    </>
+                  ))}
             </Text>
           </CardBody>
         </Card>

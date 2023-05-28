@@ -553,6 +553,7 @@
               "english": "Zhu4 Shu1 Qin2"
             },
             "isMale": false,
+            "hasBio": true,
             "id": 40
           }
         ]
@@ -762,11 +763,12 @@
         "names": [
           {
             "name": {
-              "chinese": "王世焜(光宇)",
+              "chinese": "王世焜 (光宇)",
               "english": "Wang2 Shi4 Kun1 (Guang1 Yu3)"
             },
             "isWang": true,
             "isMale": true,
+            "hasBio": true,
             "id": 54
           },
           {
@@ -775,6 +777,7 @@
               "english": "Kong3 Ling3 Rou2"
             },
             "isMale": false,
+            "hasBio": true,
             "id": 55
           }
         ],

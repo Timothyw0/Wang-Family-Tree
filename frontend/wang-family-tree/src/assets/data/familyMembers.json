@@ -135,7 +135,18 @@
       "https://wang-photo.s3.ap-southeast-1.amazonaws.com/TimothyWang/2.jpg",
       "https://wang-photo.s3.ap-southeast-1.amazonaws.com/TimothyWang/3.jpg"
     ],
-    "links": ["https://www.tim-wang.com", "https://github.com/Timothyw0"]
+    "links": [
+      {
+        "URL": "https://github.com/Timothyw0",
+        "chinese": "王大明知乎网",
+        "english": "Github"
+      },
+      {
+        "URL": "https://www.tim-wang.com",
+        "chinese": "王大明网站",
+        "english": "My Website"
+      }
+    ]
   },
   {
     "memberId": "99",

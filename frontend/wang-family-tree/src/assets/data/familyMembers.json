@@ -186,7 +186,8 @@
       ]
     },
     "photoURLs": [
-      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/blank-image.jpg"
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangShiWei/1.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangShiWei/2.jpg"
     ]
   },
   {
@@ -204,7 +205,7 @@
       ]
     },
     "photoURLs": [
-      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/blank-image.jpg"
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/CaoYuan/1.jpg"
     ]
   },
   {
@@ -215,14 +216,34 @@
     },
     "bio": {
       "chinese": [
-        "1929年 - ?"
+        "1929年 - 2021年7月24日"
       ],
       "english": [
-        "1929年 - ?"
+        "1929 - July 24, 2021"
       ]
     },
     "photoURLs": [
-      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/blank-image.jpg"
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangFang/1.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangFang/2.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangShiWei/2.jpg"
+    ]
+  },
+  {
+    "memberId": "44",
+    "name": {
+      "chinese": "祝士襄",
+      "english": "Zhu4 Shi4 Xiang1"
+    },
+    "bio": {
+      "chinese": [
+        ""
+      ],
+      "english": [
+        ""
+      ]
+    },
+    "photoURLs": [
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/ZhuShiXiang/1.jpg"
     ]
   },
   {
@@ -240,7 +261,9 @@
       ]
     },
     "photoURLs": [
-      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/blank-image.jpg"
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangJiuChun/1.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangFang/2.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangShiWei/2.jpg"
     ]
   },
   {
@@ -359,10 +382,10 @@
     },
     "bio": {
       "chinese": [
-        "1928年2月18日 - ? (属龙)" 
+        "1928年2月18日 - 2011年9月3日 (属龙)" 
       ],
       "english": [
-        "February 18, 1928 - ? (Dragon)"
+        "February 18, 1928 - September 3, 2011 (Dragon)"
       ]
     },
     "photoURLs": [

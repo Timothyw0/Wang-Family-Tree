@@ -35,9 +35,7 @@ const WangNode = (props: NodeObject) => {
   const isWangMale: boolean = data?.names?.[0]?.isMale || false;
   const ageOrder = (
     <strong style={{ color: isWangMale ? "red" : "green" }}>
-      {isWangMale
-        ? data?.ageOrder
-        : data?.ageOrder && String.fromCharCode(data?.ageOrder + 64)}
+      {isWangMale ? data?.ageOrder : `(${data?.ageOrder})`}
     </strong>
   );
 

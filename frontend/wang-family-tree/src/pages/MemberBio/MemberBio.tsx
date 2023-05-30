@@ -58,6 +58,10 @@ const MemberBio = (props: any) => {
     navigate("/");
   };
 
+  const openPicture = (link) => {
+    window.open(link, "_blank");
+  };
+
   useEffect(() => {
     // if (!memberId) return;
     // apiService
@@ -95,6 +99,8 @@ const MemberBio = (props: any) => {
                     src={photo}
                     borderRadius="lg"
                     referrerPolicy="no-referrer"
+                    onClick={() => openPicture(photo)}
+                    style={{ cursor: "pointer" }}
                   />
                 ))
               ) : (
@@ -102,6 +108,8 @@ const MemberBio = (props: any) => {
                   src={memberData?.photoURL || noPicture}
                   borderRadius="lg"
                   referrerPolicy="no-referrer"
+                  onClick={() => openPicture(memberData?.photoURL || noPicture)}
+                  style={{ cursor: "pointer" }}
                 />
               )}
             </SimpleGrid>

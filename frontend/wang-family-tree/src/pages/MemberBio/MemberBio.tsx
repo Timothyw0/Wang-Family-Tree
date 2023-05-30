@@ -27,6 +27,7 @@ interface MemberObject {
   };
   photoURLs?: Array<string>;
   photoURL?: string;
+  links?: Array<string>;
 }
 
 const MemberBio = (props: any) => {
@@ -119,6 +120,22 @@ const MemberBio = (props: any) => {
                       <br />
                     </>
                   ))}
+            </Text>
+            <Text size="md" className="text-center py-2">
+              {memberData?.links &&
+                memberData.links?.length &&
+                memberData.links.map((link: string) => (
+                  <>
+                    <a
+                      href={link}
+                      target="_blank"
+                      className="font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                    >
+                      {link}
+                    </a>
+                    <br />
+                  </>
+                ))}
             </Text>
           </CardBody>
         </Card>

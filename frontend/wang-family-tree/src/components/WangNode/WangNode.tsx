@@ -3,7 +3,6 @@ import { StarIcon } from "@chakra-ui/icons";
 import { Link } from "react-router-dom";
 import { Handle, Position } from "reactflow";
 import { useLanguageSelector } from "../../hooks/useLanguageSelector";
-import "./WangNode.css";
 
 interface NameObject {
   name: {
@@ -14,6 +13,7 @@ interface NameObject {
   isWang?: boolean;
   isMale?: boolean;
   hasBio?: boolean;
+  style?: object;
 }
 
 interface NodeObject {

@@ -722,6 +722,7 @@
     },
     {
       "id": "24",
+      "style": { "width": "300px" },
       "data": {
         "names": [
           {

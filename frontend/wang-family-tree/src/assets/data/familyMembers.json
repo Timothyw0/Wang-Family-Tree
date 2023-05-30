@@ -50,12 +50,8 @@
       "english": "Zhu4 Shu1 Qin2"
     },
     "bio": {
-      "chinese": [
-        "1892年11月11日 - 1937年7月23日 (属龙)"
-      ],
-      "english": [
-        "November 11, 1892 - July 23, 1937 (Dragon)"
-      ]
+      "chinese": ["1892年11月11日 - 1937年7月23日 (属龙)"],
+      "english": ["November 11, 1892 - July 23, 1937 (Dragon)"]
     },
     "photoURLs": [
       "https://wang-photo.s3.ap-southeast-1.amazonaws.com/ZhuShuTing/1.jpg",
@@ -69,12 +65,8 @@
       "english": "Wang2 Shi4 Kun1 (Guang1 Yu3)"
     },
     "bio": {
-      "chinese": [
-        "1910年12月1日 (属狗)"
-      ],
-      "english": [
-        "December 1, 1910 (Dog)"
-      ]
+      "chinese": ["1910年12月1日 (属狗)"],
+      "english": ["December 1, 1910 (Dog)"]
     },
     "photoURLs": [
       "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangShiKun/1.jpg"
@@ -87,21 +79,14 @@
       "english": "Kong3 Ling3 Rou2"
     },
     "bio": {
-      "chinese": [
-        "1910年10月21日 - 2001年6月27日 (属狗)"
-      ],
-      "english": [
-        "October 21, 1910 - June 27, 2001 (Dog)"
-      ]
+      "chinese": ["1910年10月21日 - 2001年6月27日 (属狗)"],
+      "english": ["October 21, 1910 - June 27, 2001 (Dog)"]
     },
     "photoURLs": [
       "https://wang-photo.s3.ap-southeast-1.amazonaws.com/KongLingRou/1.jpg",
       "https://wang-photo.s3.ap-southeast-1.amazonaws.com/ZhuShuTing/2.jpg"
     ]
   },
-
-
-
   {
     "memberId": "00",
     "name": {
@@ -109,22 +94,14 @@
       "english": "English Name"
     },
     "bio": {
-      "chinese": [
-        "Chinese Bio",
-        "Chinese Bio"
-      ],
-      "english": [
-        "English bio here",
-        "English bio here"
-      ]
+      "chinese": ["Chinese Bio", "Chinese Bio"],
+      "english": ["English bio here", "English bio here"]
     },
     "photoURLs": [
       "https://wang-photo.s3.ap-southeast-1.amazonaws.com/FolderName/1.jpg",
       "https://wang-photo.s3.ap-southeast-1.amazonaws.com/FolderName/2.jpg"
     ]
   },
-
-
 
   {
     "memberId": "89",
@@ -133,13 +110,8 @@
       "english": "Charlie Wang"
     },
     "bio": {
-      "chinese": [
-        "Chinese bio here",
-      "试一试",
-    "第二排"],
-      "english": ["English bio here",
-    "line number 1",
-  "line number 2"]
+      "chinese": ["Chinese bio here", "试一试", "第二排"],
+      "english": ["English bio here", "line number 1", "line number 2"]
     },
     "photoURLs": [
       "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangWuTing/1.jpg"
@@ -162,7 +134,8 @@
       "https://wang-photo.s3.ap-southeast-1.amazonaws.com/TimothyWang/1.jpg",
       "https://wang-photo.s3.ap-southeast-1.amazonaws.com/TimothyWang/2.jpg",
       "https://wang-photo.s3.ap-southeast-1.amazonaws.com/TimothyWang/3.jpg"
-    ]
+    ],
+    "links": ["https://www.tim-wang.com", "https://github.com/Timothyw0"]
   },
   {
     "memberId": "99",

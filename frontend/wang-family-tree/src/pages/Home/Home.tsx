@@ -36,6 +36,7 @@ interface NodeObject {
     x: number;
     y: number;
   };
+  style?: object;
 }
 
 interface TreeObject {
@@ -98,7 +99,10 @@ const Home = () => {
                   border: "1px solid #777",
                   padding: 10,
                   borderRadius: "5px",
-                  width: "150px",
+                  background: "#fff",
+                  textAlign: "center",
+                  width: "175px",
+                  ...elem?.style,
                 },
               })),
             [treeData]

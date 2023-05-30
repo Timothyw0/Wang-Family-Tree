@@ -88,6 +88,30 @@
     ]
   },
   {
+    "memberId": "52",
+    "name": {
+      "chinese": "黄雅",
+      "english": "Huang2 Ya3"
+    },
+    "bio": {
+      "chinese": [
+        "1911年9月13日 - 1980年5月x日 (属猪)"
+      ],
+      "english": [
+        "September 13, 1911 - May, 1980 (Pig)"
+      ]
+    },
+    "photoURLs": [
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/ZhuShuTing/2.jpg"
+    ]
+  },
+
+
+
+
+
+
+  {
     "memberId": "00",
     "name": {
       "chinese": "Chinese Name",

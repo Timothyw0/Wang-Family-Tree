@@ -58,7 +58,7 @@ const MemberBio = (props: any) => {
     navigate("/");
   };
 
-  const openPicture = (link) => {
+  const openPicture = (link: string) => {
     window.open(link, "_blank");
   };
 

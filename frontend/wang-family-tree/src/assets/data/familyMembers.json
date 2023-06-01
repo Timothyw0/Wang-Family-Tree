@@ -26,13 +26,13 @@
     },
     "bio": {
       "chinese": [
-        "1894年7月23日 - 1978年10月x日 (属马)",
+        "1894年7月23日 - 1946年5月x日 (属马)",
         "浅谈堂号 (三槐堂)",
         "过去在北京一提起是三槐堂的人，就知道此人姓王。",
         "午亭公先辈曾在前清内务府掌管帘子库，故王府有“帘子王”之称。"
       ],
       "english": [
-        "July 23, 1894 - October, 1978",
+        "July 23, 1894 - May, 1946",
         "Talking about brand name (San1 Huai2 Tang2)",
         "In the past, when people in Beijing were mentioned as a member of San Huai Tang, they knew that the person was named Wang.",
         "The ancestors of Mr. Wang Wu Ting used to be in charge of the curtain storehouse in the House of Internal Affairs in the former Qing Dynasty, so the palace was known as the \"King of Curtains\"."
@@ -55,8 +55,8 @@
       "english": ["November 11, 1892 - July 23, 1937 (Dragon)"]
     },
     "photoURLs": [
-      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/ZhuShuTing/1.jpg",
-      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/ZhuShuTing/2.jpg"
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/ZhuShuQin/1.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/ZhuShuQin/2.jpg"
     ]
   },
   {
@@ -76,8 +76,8 @@
   {
     "memberId": "55",
     "name": {
-      "chinese": "孔令柔",
-      "english": "Kong3 Ling3 Rou2"
+      "chinese": "名孔令柔，号孔亦刚。",
+      "english": "Kong3 Ling3 Rou2 (Yi4 Gang1)"
     },
     "bio": {
       "chinese": ["1910年10月21日 - 2001年6月27日 (属狗)"],
@@ -85,7 +85,7 @@
     },
     "photoURLs": [
       "https://wang-photo.s3.ap-southeast-1.amazonaws.com/KongLingRou/1.jpg",
-      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/ZhuShuTing/2.jpg"
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/ZhuShuQin/2.jpg"
     ]
   },
   {
@@ -103,7 +103,26 @@
       ]
     },
     "photoURLs": [
-      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/ZhuShuTing/2.jpg"
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangFangYu/1.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangFangYu/2.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangFangYu/3.jpg"
+    ],
+    "links": [
+      {
+        "URL": "https://baike.baidu.com/item/%E7%8E%8B%E6%96%B9%E5%AE%87/6697666",
+        "chinese": "王方宇 百度百科",
+        "english": ""
+      },
+      {
+        "URL": "https://en.wikipedia.org/wiki/Fred_Fangyu_Wang",
+        "chinese": "",
+        "english": "Fred Fangyu Wang Wikipedia"
+      },
+      {
+        "URL": "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangFangYu/visit_journal.htm",
+        "chinese": "王方宇 探亲记 (1979年4月10日)",
+        "english": ""
+      }
     ]
   },
   {
@@ -121,7 +140,10 @@
       ]
     },
     "photoURLs": [
-      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/ZhuShuTing/2.jpg"
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/HuangYa/1.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/HuangYa/2.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/ZhuShuQin/2.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangFangYu/3.jpg"
     ]
   },
   {
@@ -139,7 +161,8 @@
       ]
     },
     "photoURLs": [
-      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/blank-image.jpg"
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/ShenHui/1.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangFangYu/2.jpg"
     ]
   },
   {
@@ -154,7 +177,9 @@
       
     },
     "photoURLs": [
-      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/blank-image.jpg"
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangShiFen/1.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangShiFen/2.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangShiFen/3.jpg"
     ]
   },
   {
@@ -168,7 +193,7 @@
       "english": ["December 19, 1917 - April 1, 1997 (Snake)"]
     },
     "photoURLs": [
-      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/blank-image.jpg"
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/PiaoTingDu/1.jpg"
     ]
   },
   {
@@ -263,7 +288,8 @@
     "photoURLs": [
       "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangJiuChun/1.jpg",
       "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangFang/2.jpg",
-      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangShiWei/2.jpg"
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangShiWei/2.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangJiuChun/2.jpg"
     ]
   },
   {
@@ -281,7 +307,7 @@
       ]
     },
     "photoURLs": [
-      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/blank-image.jpg"
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/JinJun/1.jpg"
     ]
   },
   {
@@ -299,7 +325,9 @@
       ]
     },
     "photoURLs": [
-      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/blank-image.jpg"
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangXian/1.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangShiWei/2.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangFang/2.jpg"
     ]
   },
   {
@@ -317,7 +345,7 @@
       ]
     },
     "photoURLs": [
-      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/blank-image.jpg"
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/YuLin/1.jpg"
     ]
   },
   {
@@ -335,7 +363,8 @@
       ]
     },
     "photoURLs": [
-      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/blank-image.jpg"
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangYue/1.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangShiWei/2.jpg"
     ]
   },
   {
@@ -371,7 +400,13 @@
       ]
     },
     "photoURLs": [
-      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/blank-image.jpg"
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangShan/1.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangShiWei/2.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangFang/2.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/HuangYa/2.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangShan/2.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangShan/3.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangFangYu/3.jpg"
     ]
   },
   {
@@ -389,7 +424,8 @@
       ]
     },
     "photoURLs": [
-      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/blank-image.jpg"
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/FengXueLi/1.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/HuangYa/2.jpg"
     ]
   },
   {
@@ -407,7 +443,14 @@
       ]
     },
     "photoURLs": [
-      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/blank-image.jpg"
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangShiWei/2.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangJiuShen/1.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/HuangYa/2.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangJiuShen/2.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangJiuShen/3.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangJiuShen/4.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangShan/3.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangFangYu/3.jpg"
     ]
   },
   {
@@ -421,11 +464,14 @@
         "1939年10月1日 - 现今 (属虎)" 
       ],
       "english": [
-        "October 1, 1939 - Present (Tigger)"
+        "October 1, 1939 - Present (Tiger)"
       ]
     },
     "photoURLs": [
-      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/blank-image.jpg"
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/FengHuiShu/1.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/HuangYa/2.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/FengHuiShu/2.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangJiuShen/3.jpg"
     ]
   },
   {
@@ -443,7 +489,12 @@
       ]
     },
     "photoURLs": [
-      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/blank-image.jpg"
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangJiuLun/1.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/HuangYa/2.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangShiWei/2.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangJiuLun/2.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangJiuLun/3.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangShan/3.jpg"
     ]
   },
   {
@@ -461,7 +512,8 @@
       ]
     },
     "photoURLs": [
-      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/blank-image.jpg"
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangHuiYing/1.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/HuangYa/2.jpg"
     ]
   },
   {
@@ -479,7 +531,28 @@
       ]
     },
     "photoURLs": [
-      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/blank-image.jpg"
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangShaoFang/1.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangShaoFang/2.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangShaoFang/3.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangShan/3.jpg"
+    ]
+  },
+  {
+    "memberId": "64",
+    "name": {
+      "chinese": "陆丽施",
+      "english": "Lu4 Li4 Shi1"
+    },
+    "bio": {
+      "chinese": [
+        ""
+      ],
+      "english": [
+        ""
+      ]
+    },
+    "photoURLs": [
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/LuLiShi/1.jpg"
     ]
   },
   {
@@ -533,7 +606,7 @@
       ]
     },
     "photoURLs": [
-      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/blank-image.jpg"
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangJiuHong/1.jpg"
     ]
   },
   {
@@ -551,7 +624,7 @@
       ]
     },
     "photoURLs": [
-      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/blank-image.jpg"
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/LiLiHua/1.jpg"
     ]
   },
   {
@@ -562,16 +635,55 @@
     },
     "bio": {
       "chinese": [
-        ""
+        "1957年7月5日 - 现今 (属猪)"
       ],
       "english": [
-        ""
+        "July 5, 1947 - Present (Pig)"
+      ]
+    },
+    "photoURLs": [
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangQi/1.jpg"
+    ]
+  },
+  {
+    "memberId": "61",
+    "name": {
+      "chinese": "张国泰",
+      "english": "Zhang1 Guo2 Tai4"
+    },
+    "bio": {
+      "chinese": [
+        "1944年8月18日 - ? (属猴)"
+      ],
+      "english": [
+        "August 18, 1944 - ? (Monkey)"
       ]
     },
     "photoURLs": [
       "https://wang-photo.s3.ap-southeast-1.amazonaws.com/blank-image.jpg"
     ]
   },
+  {
+    "memberId": "62",
+    "name": {
+      "chinese": "池振英",
+      "english": "Chi2 Zhen4 Ying1"
+    },
+    "bio": {
+      "chinese": [
+        "1942年1月27日 - ? (属蛇)"
+      ],
+      "english": [
+        "January 27, 1942 - ? (Snake)"
+      ]
+    },
+    "photoURLs": [
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/blank-image.jpg"
+    ]
+  },
+
+
+
   {
     "memberId": "95",
     "name": {
@@ -587,7 +699,8 @@
       ]
     },
     "photoURLs": [
-      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/blank-image.jpg"
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangGang/1.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangGang/2.jpg"
     ]
   },
   {
@@ -623,7 +736,8 @@
       ]
     },
     "photoURLs": [
-      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/blank-image.jpg"
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangHe/1.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangHe/2.jpg"
     ]
   },
   {
@@ -641,7 +755,8 @@
       ]
     },
     "photoURLs": [
-      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/blank-image.jpg"
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangXiaoLai/1.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangXiaoLai/2.jpg"
     ]
   },
   {
@@ -659,7 +774,7 @@
       ]
     },
     "photoURLs": [
-      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/blank-image.jpg"
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/LiJun/1.jpg"
     ]
   },
   {
@@ -677,7 +792,12 @@
       ]
     },
     "photoURLs": [
-      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/blank-image.jpg"
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangQiang/1.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/HuangYa/2.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangQiang/2.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangQiang/3.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangQiang/4.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangQiang/5.jpg"
     ]
   },
   {
@@ -695,7 +815,9 @@
       ]
     },
     "photoURLs": [
-      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/blank-image.jpg"
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/LiuJunBo/1.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangQiang/3.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/LiuJunBo/2.jpg"
     ]
   },
   {
@@ -713,14 +835,16 @@
       ]
     },
     "photoURLs": [
-      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/blank-image.jpg"
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangLi/1.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangLi/2.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangLi/3.jpg"
     ]
   },
   {
     "memberId": "88",
     "name": {
       "chinese": "黄啟彰",
-      "english": "Huang2 Qi3 Zhang [John Huang]"
+      "english": "Huang2 Qi3 Zhang1 [John Huang]"
     },
     "bio": {
       "chinese": [
@@ -731,9 +855,107 @@
       ]
     },
     "photoURLs": [
-      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/blank-image.jpg"
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/HuangQiZhang/1.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangLi/3.jpg"
     ]
   },
+  {
+    "memberId": "85",
+    "name": {
+      "chinese": "王诚",
+      "english": "Wang2 Cheng2"
+    },
+    "bio": {
+      "chinese": [
+        "" 
+      ],
+      "english": [
+        ""
+      ]
+    },
+    "photoURLs": [
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangCheng/1.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangCheng/2.jpg"
+    ]
+  },
+  {
+    "memberId": "86",
+    "name": {
+      "chinese": "王晨",
+      "english": "Wang2 Chen2"
+    },
+    "bio": {
+      "chinese": [
+        "" 
+      ],
+      "english": [
+        ""
+      ]
+    },
+    "photoURLs": [
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangChen/1.jpg"
+    ]
+  },
+
+
+  {
+    "memberId": "84",
+    "name": {
+      "chinese": "王真",
+      "english": "Wang2 Zhen1"
+    },
+    "bio": {
+      "chinese": [
+        "1989年1月X日 - 现今 (属猴)" 
+      ],
+      "english": [
+        "January, 1989 - Present (Monkey)"
+      ]
+    },
+    "photoURLs": [
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangZhen/1.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangZhen/2.jpg"
+    ]
+  },
+  {
+    "memberId": "83",
+    "name": {
+      "chinese": "王智",
+      "english": "Wang2 Zhi4"
+    },
+    "bio": {
+      "chinese": [
+        "" 
+      ],
+      "english": [
+        ""
+      ]
+    },
+    "photoURLs": [
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangZhi/1.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangZhi/2.jpg"
+    ]
+  },
+  {
+    "memberId": "82",
+    "name": {
+      "chinese": "王传方",
+      "english": "Wang2 Chuan2 Fang1"
+    },
+    "bio": {
+      "chinese": [
+        "" 
+      ],
+      "english": [
+        ""
+      ]
+    },
+    "photoURLs": [
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangChuanFang/1.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangChuanFang/2.jpg"
+    ]
+  },
+
   {
     "memberId": "78",
     "name": {
@@ -749,7 +971,7 @@
       ]
     },
     "photoURLs": [
-      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/blank-image.jpg"
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangSui/1.jpg"
     ]
   },
   {
@@ -804,9 +1026,11 @@
       ]
     },
     "photoURLs": [
-      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/TimothyWang/1.jpg",
-      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/TimothyWang/2.jpg",
-      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/TimothyWang/3.jpg"
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangDaMing/1.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangDaMing/2.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangDaMing/3.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangDaMing/4.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangDaMing/5.jpg"
     ],
     "links": [
       {
@@ -854,7 +1078,11 @@
       ]
     },
     "photoURLs": [
-      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/blank-image.jpg"
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangWanYu/1.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangWanYu/2.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangWanYu/3.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangWanYu/4.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangWanYu/5.jpg"
     ]
   },
 

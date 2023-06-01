@@ -117,7 +117,7 @@
           {
             "name": {
               "chinese": "张太君",
-              "english": "zhang1 Tai4 Jun1"
+              "english": "Zhang1 Tai4 Jun1"
             },
             "isMale": false,
             "id": 9
@@ -783,7 +783,7 @@
           },
           {
             "name": {
-              "chinese": "孔令柔",
+              "chinese": "孔令柔 (亦刚)",
               "english": "Kong3 Ling3 Rou2"
             },
             "isMale": false,
@@ -880,6 +880,7 @@
               "english": "Zhang1 Guo2 Tai4"
             },
             "isMale": true,
+            "hasBio": true,
             "id": 61
           },
           {
@@ -888,6 +889,7 @@
               "english": "Chi2 Zhen4 Ying1"
             },
             "isMale": true,
+            "hasBio": true,
             "id": 62
           }
         ],
@@ -918,6 +920,7 @@
               "english": "Lu4 Li4 Shi1"
             },
             "isMale": false,
+            "hasBio": true,
             "id": 64
           }
         ],
@@ -1201,6 +1204,7 @@
             },
             "isWang": true,
             "isMale": true,
+            "hasBio": true,
             "id": 82
           }
         ],
@@ -1222,6 +1226,7 @@
             },
             "isWang": true,
             "isMale": true,
+            "hasBio": true,
             "id": 83
           }
         ],
@@ -1243,6 +1248,7 @@
             },
             "isWang": true,
             "isMale": false,
+            "hasBio":true,
             "id": 84
           }
         ],
@@ -1264,6 +1270,7 @@
             },
             "isWang": true,
             "isMale": true,
+            "hasBio": true,
             "id": 85
           },
           {
@@ -1272,6 +1279,7 @@
               "english": "Wang2 Chen2"
             },
             "isMale": false,
+            "hasBio": true,
             "id": 86
           }
         ],

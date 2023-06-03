@@ -95,12 +95,8 @@
       "english": "Wang2 Shi4 Ying1 (Fang1 Yu3) [Fred Wang]"
     },
     "bio": {
-      "chinese": [
-        "1913年2月2日 - 1997年10月6日 (属牛)" 
-      ],
-      "english": [
-        "February 2, 1913 - October 6, 1997 (Ox)"
-      ]
+      "chinese": ["1913年2月2日 - 1997年10月6日 (属牛)"],
+      "english": ["February 2, 1913 - October 6, 1997 (Ox)"]
     },
     "photoURLs": [
       "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangFangYu/1.jpg",
@@ -132,12 +128,8 @@
       "english": "Huang2 Ya3"
     },
     "bio": {
-      "chinese": [
-        "1911年9月13日 - 1980年5月x日 (属猪)"
-      ],
-      "english": [
-        "September 13, 1911 - May, 1980 (Pig)"
-      ]
+      "chinese": ["1911年9月13日 - 1980年5月x日 (属猪)"],
+      "english": ["September 13, 1911 - May, 1980 (Pig)"]
     },
     "photoURLs": [
       "https://wang-photo.s3.ap-southeast-1.amazonaws.com/HuangYa/1.jpg",
@@ -153,12 +145,8 @@
       "english": "Shen3 Hui4"
     },
     "bio": {
-      "chinese": [
-        "1917年10月x日 - 1996年6月x日 (属x)"
-      ],
-      "english": [
-        "October, 1917 - June, 1996"
-      ]
+      "chinese": ["1917年10月x日 - 1996年6月x日 (属x)"],
+      "english": ["October, 1917 - June, 1996"]
     },
     "photoURLs": [
       "https://wang-photo.s3.ap-southeast-1.amazonaws.com/ShenHui/1.jpg",
@@ -174,7 +162,6 @@
     "bio": {
       "chinese": ["1915年4月8日 - 2005年4月30日 (属兔)"],
       "english": ["April 8, 1915 - April 30, 2005 (Rabbit)"]
-      
     },
     "photoURLs": [
       "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangShiFen/1.jpg",
@@ -203,12 +190,8 @@
       "english": "Wang2 Shi4 Wei3 (Bei3 Yu3)"
     },
     "bio": {
-      "chinese": [
-        "1918年 - 1973"
-      ],
-      "english": [
-        "1918 - 1973"
-      ]
+      "chinese": ["1918年 - 1973"],
+      "english": ["1918 - 1973"]
     },
     "photoURLs": [
       "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangShiWei/1.jpg",
@@ -222,12 +205,8 @@
       "english": "Cao2 Yuan2"
     },
     "bio": {
-      "chinese": [
-        "1921年5月 - 1997年4月"
-      ],
-      "english": [
-        "May, 1921 - April, 1997"
-      ]
+      "chinese": ["1921年5月 - 1997年4月"],
+      "english": ["May, 1921 - April, 1997"]
     },
     "photoURLs": [
       "https://wang-photo.s3.ap-southeast-1.amazonaws.com/CaoYuan/1.jpg"
@@ -240,12 +219,8 @@
       "english": "Wang2 Fang1"
     },
     "bio": {
-      "chinese": [
-        "1929年 - 2021年7月24日"
-      ],
-      "english": [
-        "1929 - July 24, 2021"
-      ]
+      "chinese": ["1929年 - 2021年7月24日"],
+      "english": ["1929 - July 24, 2021"]
     },
     "photoURLs": [
       "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangFang/1.jpg",
@@ -260,12 +235,8 @@
       "english": "Zhu4 Shi4 Xiang1"
     },
     "bio": {
-      "chinese": [
-        ""
-      ],
-      "english": [
-        ""
-      ]
+      "chinese": [""],
+      "english": [""]
     },
     "photoURLs": [
       "https://wang-photo.s3.ap-southeast-1.amazonaws.com/ZhuShiXiang/1.jpg"
@@ -278,12 +249,8 @@
       "english": "Wang2 Jiu3 Chun2"
     },
     "bio": {
-      "chinese": [
-        "1929年8月19日 - ? (属蛇) "
-      ],
-      "english": [
-        "August 19, 1929 - ? (Snake)"
-      ]
+      "chinese": ["1929年8月19日 - ? (属蛇) "],
+      "english": ["August 19, 1929 - ? (Snake)"]
     },
     "photoURLs": [
       "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangJiuChun/1.jpg",
@@ -301,12 +268,8 @@
       "english": "Jin4 Jun1"
     },
     "bio": {
-      "chinese": [
-        "1929年10月14日 - 1985年9月3日 (属蛇)" 
-      ],
-      "english": [
-        "October 14, 1929 - September 3, 1985 (Snake)"
-      ]
+      "chinese": ["1929年10月14日 - 1985年9月3日 (属蛇)"],
+      "english": ["October 14, 1929 - September 3, 1985 (Snake)"]
     },
     "photoURLs": [
       "https://wang-photo.s3.ap-southeast-1.amazonaws.com/JinJun/1.jpg"
@@ -338,12 +301,8 @@
       "english": "Wang2 Jiu3 Mian2 (Wang2 Xian3)"
     },
     "bio": {
-      "chinese": [
-        "1932年10月26日 - ? (属猴)" 
-      ],
-      "english": [
-        "October 26, 1932 - ? (Monkey)"
-      ]
+      "chinese": ["1932年10月26日 - ? (属猴)"],
+      "english": ["October 26, 1932 - ? (Monkey)"]
     },
     "photoURLs": [
       "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangXian/1.jpg",
@@ -358,12 +317,8 @@
       "english": "Yu2 Lin2"
     },
     "bio": {
-      "chinese": [
-        "1935年3月17日 - 现今 (属猪)" 
-      ],
-      "english": [
-        "March 17, 1935 - Present (Pig)"
-      ]
+      "chinese": ["1935年3月17日 - 现今 (属猪)"],
+      "english": ["March 17, 1935 - Present (Pig)"]
     },
     "photoURLs": [
       "https://wang-photo.s3.ap-southeast-1.amazonaws.com/YuLin/1.jpg"
@@ -376,12 +331,8 @@
       "english": "Wang2 Yue4"
     },
     "bio": {
-      "chinese": [
-        "1942年8月21日 - 2005年1月16日 (属马)" 
-      ],
-      "english": [
-        "August 21, 1942 - January 16, 2005 (Horse)"
-      ]
+      "chinese": ["1942年8月21日 - 2005年1月16日 (属马)"],
+      "english": ["August 21, 1942 - January 16, 2005 (Horse)"]
     },
     "photoURLs": [
       "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangYue/1.jpg",
@@ -395,12 +346,8 @@
       "english": "Ning4 Jin3 Zhong1"
     },
     "bio": {
-      "chinese": [
-        "1940年11月17日 - 现今 (属龙)" 
-      ],
-      "english": [
-        "November 17, 1940 - Present (Dragon)"
-      ]
+      "chinese": ["1940年11月17日 - 现今 (属龙)"],
+      "english": ["November 17, 1940 - Present (Dragon)"]
     },
     "photoURLs": [
       "https://wang-photo.s3.ap-southeast-1.amazonaws.com/blank-image.jpg"
@@ -413,12 +360,8 @@
       "english": "Wang2 Shan1"
     },
     "bio": {
-      "chinese": [
-        "1933年11月2日 - 现今 (属鸡)" 
-      ],
-      "english": [
-        "November 2, 1933 - Present (Rooster)"
-      ]
+      "chinese": ["1933年11月2日 - 现今 (属鸡)"],
+      "english": ["November 2, 1933 - Present (Rooster)"]
     },
     "photoURLs": [
       "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangShan/1.jpg",
@@ -437,12 +380,8 @@
       "english": "Feng2 Xue2 Li3"
     },
     "bio": {
-      "chinese": [
-        "1928年2月18日 - 2011年9月3日 (属龙)" 
-      ],
-      "english": [
-        "February 18, 1928 - September 3, 2011 (Dragon)"
-      ]
+      "chinese": ["1928年2月18日 - 2011年9月3日 (属龙)"],
+      "english": ["February 18, 1928 - September 3, 2011 (Dragon)"]
     },
     "photoURLs": [
       "https://wang-photo.s3.ap-southeast-1.amazonaws.com/FengXueLi/1.jpg",
@@ -456,12 +395,8 @@
       "english": "Wang2 Jiu3 Shen1"
     },
     "bio": {
-      "chinese": [
-        "1936年7月1日 - 现今 (属鼠)"
-      ],
-      "english": [
-        "July 1, 1936 - Present (Rat)"
-      ]
+      "chinese": ["1936年7月1日 - 现今 (属鼠)"],
+      "english": ["July 1, 1936 - Present (Rat)"]
     },
     "photoURLs": [
       "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangShiWei/2.jpg",
@@ -481,12 +416,8 @@
       "english": "Feng2 Hui4 Shu1"
     },
     "bio": {
-      "chinese": [
-        "1939年10月1日 - 现今 (属虎)" 
-      ],
-      "english": [
-        "October 1, 1939 - Present (Tiger)"
-      ]
+      "chinese": ["1939年10月1日 - 现今 (属虎)"],
+      "english": ["October 1, 1939 - Present (Tiger)"]
     },
     "photoURLs": [
       "https://wang-photo.s3.ap-southeast-1.amazonaws.com/FengHuiShu/1.jpg",
@@ -502,12 +433,8 @@
       "english": "Wang2 Jiu3 Lun2"
     },
     "bio": {
-      "chinese": [
-        "1940年x月x日 - 现今 (属龙)" 
-      ],
-      "english": [
-        "1949 - Present (Dragon)"
-      ]
+      "chinese": ["1940年x月x日 - 现今 (属龙)"],
+      "english": ["1949 - Present (Dragon)"]
     },
     "photoURLs": [
       "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangJiuLun/1.jpg",
@@ -525,12 +452,8 @@
       "english": "Wang2 Hui4 Ying1"
     },
     "bio": {
-      "chinese": [
-        "1939年x月x日 - 现今 (属兔)" 
-      ],
-      "english": [
-        "1939 - Present (Rabbit)"
-      ]
+      "chinese": ["1939年x月x日 - 现今 (属兔)"],
+      "english": ["1939 - Present (Rabbit)"]
     },
     "photoURLs": [
       "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangHuiYing/1.jpg",
@@ -544,12 +467,8 @@
       "english": "Wang2 Shao4 Fang1"
     },
     "bio": {
-      "chinese": [
-        ""
-      ],
-      "english": [
-        ""
-      ]
+      "chinese": [""],
+      "english": [""]
     },
     "photoURLs": [
       "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangShaoFang/1.jpg",
@@ -565,12 +484,8 @@
       "english": "Lu4 Li4 Shi1"
     },
     "bio": {
-      "chinese": [
-        ""
-      ],
-      "english": [
-        ""
-      ]
+      "chinese": [""],
+      "english": [""]
     },
     "photoURLs": [
       "https://wang-photo.s3.ap-southeast-1.amazonaws.com/LuLiShi/1.jpg"
@@ -583,12 +498,8 @@
       "english": "Wang2 Jiu3 Jian3"
     },
     "bio": {
-      "chinese": [
-        "1949年11月26日 - 现今 (属牛)" 
-      ],
-      "english": [
-        "November 26, 1949 - Present (Ox)"
-      ]
+      "chinese": ["1949年11月26日 - 现今 (属牛)"],
+      "english": ["November 26, 1949 - Present (Ox)"]
     },
     "photoURLs": [
       "https://wang-photo.s3.ap-southeast-1.amazonaws.com/blank-image.jpg"
@@ -601,12 +512,8 @@
       "english": "Liang2 Chun2 Ying1"
     },
     "bio": {
-      "chinese": [
-        "1951年8月23日 - 现今 (属兔)" 
-      ],
-      "english": [
-        "August 23, 1951 - Present (Rabbit)"
-      ]
+      "chinese": ["1951年8月23日 - 现今 (属兔)"],
+      "english": ["August 23, 1951 - Present (Rabbit)"]
     },
     "photoURLs": [
       "https://wang-photo.s3.ap-southeast-1.amazonaws.com/blank-image.jpg"
@@ -619,12 +526,8 @@
       "english": "Wang2 Jiu3 Hong2"
     },
     "bio": {
-      "chinese": [
-        "1955年9月21日 - 现今 (属羊)" 
-      ],
-      "english": [
-        "September 21, 1955 - Present (Goat)"
-      ]
+      "chinese": ["1955年9月21日 - 现今 (属羊)"],
+      "english": ["September 21, 1955 - Present (Goat)"]
     },
     "photoURLs": [
       "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangJiuHong/1.jpg"
@@ -637,12 +540,8 @@
       "english": "Li3 Li4 Hua2"
     },
     "bio": {
-      "chinese": [
-        "1956年4月11日 - 现今 (属猴)" 
-      ],
-      "english": [
-        "April 11, 1956 - Present (Monkey)"
-      ]
+      "chinese": ["1956年4月11日 - 现今 (属猴)"],
+      "english": ["April 11, 1956 - Present (Monkey)"]
     },
     "photoURLs": [
       "https://wang-photo.s3.ap-southeast-1.amazonaws.com/LiLiHua/1.jpg"
@@ -655,12 +554,8 @@
       "english": "Wang2 Qi2"
     },
     "bio": {
-      "chinese": [
-        "1957年7月5日 - 现今 (属猪)"
-      ],
-      "english": [
-        "July 5, 1947 - Present (Pig)"
-      ]
+      "chinese": ["1957年7月5日 - 现今 (属猪)"],
+      "english": ["July 5, 1947 - Present (Pig)"]
     },
     "photoURLs": [
       "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangQi/1.jpg"
@@ -673,12 +568,8 @@
       "english": "Zhang1 Guo2 Tai4"
     },
     "bio": {
-      "chinese": [
-        "1944年8月18日 - ? (属猴)"
-      ],
-      "english": [
-        "August 18, 1944 - ? (Monkey)"
-      ]
+      "chinese": ["1944年8月18日 - ? (属猴)"],
+      "english": ["August 18, 1944 - ? (Monkey)"]
     },
     "photoURLs": [
       "https://wang-photo.s3.ap-southeast-1.amazonaws.com/blank-image.jpg"
@@ -691,19 +582,13 @@
       "english": "Chi2 Zhen4 Ying1"
     },
     "bio": {
-      "chinese": [
-        "1942年1月27日 - ? (属蛇)"
-      ],
-      "english": [
-        "January 27, 1942 - ? (Snake)"
-      ]
+      "chinese": ["1942年1月27日 - ? (属蛇)"],
+      "english": ["January 27, 1942 - ? (Snake)"]
     },
     "photoURLs": [
       "https://wang-photo.s3.ap-southeast-1.amazonaws.com/blank-image.jpg"
     ]
   },
-
-
 
   {
     "memberId": "95",
@@ -712,12 +597,8 @@
       "english": "Wang2 Gang1"
     },
     "bio": {
-      "chinese": [
-        "1953年7月11日 - 现今 (属蛇)" 
-      ],
-      "english": [
-        "July 11, 1953 - Present (Snake)"
-      ]
+      "chinese": ["1953年7月11日 - 现今 (属蛇)"],
+      "english": ["July 11, 1953 - Present (Snake)"]
     },
     "photoURLs": [
       "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangGang/1.jpg",
@@ -731,12 +612,8 @@
       "english": "Zhao4 Wang3 Sheng1"
     },
     "bio": {
-      "chinese": [
-        "195５年x月x日 - 现今 (属羊)" 
-      ],
-      "english": [
-        "1995 - Present (Goat)"
-      ]
+      "chinese": ["195５年x月x日 - 现今 (属羊)"],
+      "english": ["1995 - Present (Goat)"]
     },
     "photoURLs": [
       "https://wang-photo.s3.ap-southeast-1.amazonaws.com/blank-image.jpg"
@@ -749,12 +626,8 @@
       "english": "Wang2 He2"
     },
     "bio": {
-      "chinese": [
-        "1961年1月1日 - 现今 (属牛)" 
-      ],
-      "english": [
-        "January 1, 1961 - Present (Ox)"
-      ]
+      "chinese": ["1961年1月1日 - 现今 (属牛)"],
+      "english": ["January 1, 1961 - Present (Ox)"]
     },
     "photoURLs": [
       "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangHe/1.jpg",
@@ -768,12 +641,8 @@
       "english": "Wang2 Xiao3 Lai2"
     },
     "bio": {
-      "chinese": [
-        "1968年10月20日 - 现今 (属猴)"
-      ],
-      "english": [
-        "October 20, 1968 - Present (Monkey)"
-      ]
+      "chinese": ["1968年10月20日 - 现今 (属猴)"],
+      "english": ["October 20, 1968 - Present (Monkey)"]
     },
     "photoURLs": [
       "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangXiaoLai/1.jpg",
@@ -787,12 +656,8 @@
       "english": "Li3 Jun1"
     },
     "bio": {
-      "chinese": [
-        "1969年5月29日 - 现今 (属鸡)" 
-      ],
-      "english": [
-        "May 29, 1969 - Present (Rooster)"
-      ]
+      "chinese": ["1969年5月29日 - 现今 (属鸡)"],
+      "english": ["May 29, 1969 - Present (Rooster)"]
     },
     "photoURLs": [
       "https://wang-photo.s3.ap-southeast-1.amazonaws.com/LiJun/1.jpg"
@@ -831,12 +696,10 @@
     },
     "bio": {
       "chinese": [
-        "1964年5月6日 - 现今 (属龙)" ,
-        "刘君波出生于北京，成长于北京。并且在北京居住生活了25年。1994年移民到美国。先后在美国纽约市居住了10年, 新泽西州居住了20年。现在搬至乔治亚州的亚特兰大市享受着清心寡欲的退休生活。 "
+        "1964年5月6日 - 现今 (属龙)" 
       ],
       "english": [
-        "May 6, 1964 - Present (Dragon)",
-        "Junbo Liu was born in Beijing, China. She grew up in Beijing, lived, and worked in Beijing for 25 years. In 1994, she immigrated to the United States. She lived in New York City for 10 years, New Jersey for 20 years. Now she is living in Atlanta, Georgia enjoying a peaceful retirement life."
+        "May 6, 1964 - Present (Dragon)"
       ]
     },
     "photoURLs": [
@@ -852,12 +715,8 @@
       "english": "Wang2 Li4 [Lily Wang]"
     },
     "bio": {
-      "chinese": [
-        "1972年9月1日 - 现今 (属鼠)" 
-      ],
-      "english": [
-        "September 1, 1972 - Present (Rat)"
-      ]
+      "chinese": ["1972年9月1日 - 现今 (属鼠)"],
+      "english": ["September 1, 1972 - Present (Rat)"]
     },
     "photoURLs": [
       "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangLi/1.jpg",
@@ -872,12 +731,8 @@
       "english": "Huang2 Qi3 Zhang1 [John Huang]"
     },
     "bio": {
-      "chinese": [
-        "1970年11月29日 - 现今 (属狗)" 
-      ],
-      "english": [
-        "November 29, 1970 - Present (Dog)"
-      ]
+      "chinese": ["1970年11月29日 - 现今 (属狗)"],
+      "english": ["November 29, 1970 - Present (Dog)"]
     },
     "photoURLs": [
       "https://wang-photo.s3.ap-southeast-1.amazonaws.com/HuangQiZhang/1.jpg",
@@ -891,12 +746,8 @@
       "english": "Wang2 Cheng2"
     },
     "bio": {
-      "chinese": [
-        "" 
-      ],
-      "english": [
-        ""
-      ]
+      "chinese": [""],
+      "english": [""]
     },
     "photoURLs": [
       "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangCheng/1.jpg",
@@ -910,18 +761,13 @@
       "english": "Wang2 Chen2"
     },
     "bio": {
-      "chinese": [
-        "" 
-      ],
-      "english": [
-        ""
-      ]
+      "chinese": [""],
+      "english": [""]
     },
     "photoURLs": [
       "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangChen/1.jpg"
     ]
   },
-
 
   {
     "memberId": "84",
@@ -930,12 +776,8 @@
       "english": "Wang2 Zhen1"
     },
     "bio": {
-      "chinese": [
-        "1989年1月X日 - 现今 (属猴)" 
-      ],
-      "english": [
-        "January, 1989 - Present (Monkey)"
-      ]
+      "chinese": ["1989年1月X日 - 现今 (属猴)"],
+      "english": ["January, 1989 - Present (Monkey)"]
     },
     "photoURLs": [
       "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangZhen/1.jpg",
@@ -949,12 +791,8 @@
       "english": "Wang2 Zhi4"
     },
     "bio": {
-      "chinese": [
-        "" 
-      ],
-      "english": [
-        ""
-      ]
+      "chinese": [""],
+      "english": [""]
     },
     "photoURLs": [
       "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangZhi/1.jpg",
@@ -968,12 +806,8 @@
       "english": "Wang2 Chuan2 Fang1"
     },
     "bio": {
-      "chinese": [
-        "" 
-      ],
-      "english": [
-        ""
-      ]
+      "chinese": [""],
+      "english": [""]
     },
     "photoURLs": [
       "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangChuanFang/1.jpg",
@@ -988,12 +822,8 @@
       "english": "Wang2 Sui2"
     },
     "bio": {
-      "chinese": [
-        "1982年7月2日 - 现今 (属狗)" 
-      ],
-      "english": [
-        "July 2, 1982 - Present (Dog)"
-      ]
+      "chinese": ["1982年7月2日 - 现今 (属狗)"],
+      "english": ["July 2, 1982 - Present (Dog)"]
     },
     "photoURLs": [
       "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangSui/1.jpg"
@@ -1006,12 +836,8 @@
       "english": "Wang2 Xing2 (Wang2 Yan3)"
     },
     "bio": {
-      "chinese": [
-        "1981年6月16日 - 现今 (属鸡)" 
-      ],
-      "english": [
-        "June 16, 1981 - Present (Rooster)"
-      ]
+      "chinese": ["1981年6月16日 - 现今 (属鸡)"],
+      "english": ["June 16, 1981 - Present (Rooster)"]
     },
     "photoURLs": [
       "https://wang-photo.s3.ap-southeast-1.amazonaws.com/blank-image.jpg"
@@ -1024,12 +850,8 @@
       "english": "Jin4 Yi1"
     },
     "bio": {
-      "chinese": [
-        "1985年12月2日 - 现今 (属牛)" 
-      ],
-      "english": [
-        "December 2, 1985 - Present (Ox)"
-      ]
+      "chinese": ["1985年12月2日 - 现今 (属牛)"],
+      "english": ["December 2, 1985 - Present (Ox)"]
     },
     "photoURLs": [
       "https://wang-photo.s3.ap-southeast-1.amazonaws.com/blank-image.jpg"
@@ -1043,8 +865,7 @@
     },
     "bio": {
       "chinese": [
-        "1997年7月7日 - 现今 (属牛)", 
-        "王大明出生于美国纽约的法拉盛。 成长于美国新泽西的南河小镇。 高中毕业后进入了美国纽约上州“特洛伊市”的“伦斯勒理工学院”就读计算机专业。 毕业后又在“史蒂文斯理工学院”继续深造并取得了计算机科学的硕士学位。"
+        "1997年7月7日 - 现今 (属牛)" 
       ],
       "english": [
         "July 7, 1997 - Present (Ox)",
@@ -1078,15 +899,14 @@
       "english": "He2 Pei4 Xin1 [Madeleine H. Wang]"
     },
     "bio": {
-      "chinese": [
-        "1997年11月23日 - 现今 (属牛)" 
-      ],
+      "chinese": ["1997年11月23日 - 现今 (属牛)"],
       "english": ["November 23, 1997 - Present", "English bio here"]
     },
     "photoURLs": [
       "https://wang-photo.s3.ap-southeast-1.amazonaws.com/MadeleineHerring/1.jpg",
       "https://wang-photo.s3.ap-southeast-1.amazonaws.com/MadeleineHerring/2.jpg",
-      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/MadeleineHerring/3.jpg"
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/MadeleineHerring/3.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/MadeleineHerring/4.jpg"
     ]
   },
   {
@@ -1096,12 +916,8 @@
       "english": "Wang2 Wan3 Yu4 [Theresa Wang]"
     },
     "bio": {
-      "chinese": [
-        "2001年3月2日 - 现今 (属蛇)" 
-      ],
-      "english": [
-        "March 2, 2001 - Present (Snake)"
-      ]
+      "chinese": ["2001年3月2日 - 现今 (属蛇)"],
+      "english": ["March 2, 2001 - Present (Snake)"]
     },
     "photoURLs": [
       "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangWanYu/1.jpg",
@@ -1112,9 +928,6 @@
     ]
   },
 
-
-
-
   {
     "memberId": "00",
     "name": {
@@ -1122,17 +935,11 @@
       "english": "English Name"
     },
     "bio": {
-      "chinese": [
-        "Chinese Bio"
-      ],
-      "english": [
-        "English bio"
-      ]
+      "chinese": ["Chinese Bio"],
+      "english": ["English bio"]
     },
     "photoURLs": [
       "https://wang-photo.s3.ap-southeast-1.amazonaws.com/blank-image.jpg"
     ]
   }
-
-
 ]

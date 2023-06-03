@@ -289,7 +289,9 @@
       "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangJiuChun/1.jpg",
       "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangFang/2.jpg",
       "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangShiWei/2.jpg",
-      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangJiuChun/2.jpg"
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangJiuChun/2.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangJiuChun/3.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangJiuChun/4.jpg"
     ]
   },
   {
@@ -308,6 +310,25 @@
     },
     "photoURLs": [
       "https://wang-photo.s3.ap-southeast-1.amazonaws.com/JinJun/1.jpg"
+    ]
+  },
+  {
+    "memberId": "200",
+    "name": {
+      "chinese": "张琪文",
+      "english": "Zhang1 Qi2 Wen2"
+    },
+    "bio": {
+      "chinese": [
+        "1929年8月19日 - ? (属蛇) "
+      ],
+      "english": [
+        "August 19, 1929 - ? (Snake)"
+      ]
+    },
+    "photoURLs": [
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/ZhangQiWen/1.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangJiuChun/4.jpg"
     ]
   },
   {
@@ -785,10 +806,12 @@
     },
     "bio": {
       "chinese": [
-        "1964年5月3日 - 现今 (属龙)" 
+        "1964年5月3日 - 现今 (属龙)" ,
+        "王强出生于北京，成长于北京，云南，安徽。 1991年初移民到美国，1995年毕业于“美国纽约市大学史太登岛分校”的计算机专业，并取得了计算机科学的硕士学位。先后在美国纽约市居住了10年, 新泽西州居住了20年。现在搬至乔治亚州的亚特兰大市享受着清心寡欲的退休生活。 "
       ],
       "english": [
-        "May 3, 1964 - Present (Dragon)"
+        "May 3, 1964 - Present (Dragon)",
+        "Charlie Wang was born in Beijing, China. He grew up in Beijing, Yunnan, and Anhui. In 1991, he immigrated to the United States. He went to The College of Staten Island (The City University of New York) for a Master of Science degree in Computer Science. He lived in New York City for 10 years, New Jersey for 20 years. Now he is living in Atlanta, Georgia enjoying a peaceful retirement life."
       ]
     },
     "photoURLs": [
@@ -808,10 +831,12 @@
     },
     "bio": {
       "chinese": [
-        "1964年5月6日 - 现今 (属龙)" 
+        "1964年5月6日 - 现今 (属龙)" ,
+        "刘君波出生于北京，成长于北京。并且在北京居住生活了25年。1994年移民到美国。先后在美国纽约市居住了10年, 新泽西州居住了20年。现在搬至乔治亚州的亚特兰大市享受着清心寡欲的退休生活。 "
       ],
       "english": [
-        "May 6, 1964 - Present (Dragon)"
+        "May 6, 1964 - Present (Dragon)",
+        "Junbo Liu was born in Beijing, China. She grew up in Beijing, lived, and worked in Beijing for 25 years. In 1994, she immigrated to the United States. She lived in New York City for 10 years, New Jersey for 20 years. Now she is living in Atlanta, Georgia enjoying a peaceful retirement life."
       ]
     },
     "photoURLs": [
@@ -1018,7 +1043,8 @@
     },
     "bio": {
       "chinese": [
-        "1997年7月7日 - 现今 (属牛)" 
+        "1997年7月7日 - 现今 (属牛)", 
+        "王大明出生于美国纽约的法拉盛。 成长于美国新泽西的南河小镇。 高中毕业后进入了美国纽约上州“特洛伊市”的“伦斯勒理工学院”就读计算机专业。 毕业后又在“史蒂文斯理工学院”继续深造并取得了计算机科学的硕士学位。"
       ],
       "english": [
         "July 7, 1997 - Present (Ox)",
@@ -1048,7 +1074,7 @@
   {
     "memberId": "100",
     "name": {
-      "chinese": "何沛欣",
+      "chinese": "何沛欣 [麦德琳]",
       "english": "He2 Pei4 Xin1 [Madeleine H. Wang]"
     },
     "bio": {

@@ -167,6 +167,18 @@
       "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangShiFen/1.jpg",
       "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangShiFen/2.jpg",
       "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangShiFen/3.jpg"
+    ],
+    "links": [
+      {
+        "URL": "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangShiFen/Note_cn.htm",
+        "chinese": "纪念王世芬",
+        "english": ""
+      },
+      {
+        "URL": "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangShiFen/Note_en.htm",
+        "chinese": "",
+        "english": "In memory of Wang ShiFen"
+      }
     ]
   },
   {
@@ -885,7 +897,7 @@
     "bio": {
       "chinese": [
         "1997年7月7日 - 现今 (属牛)" ,
-        "王大明生于美国纽约的法拉盛。 成长于美国新泽西的南河小镇。 高中毕业后进入了美国纽约上州的“特洛伊”市的伦斯勒理工学院就读计算机系专业。 毕业后又在“史蒂文斯理工学院”继续深造并取得了计算机科学的硕士学位。"
+        "王大明生于美国纽约的法拉盛。 成长于美国新泽西的南河小镇。 高中毕业后进入了美国纽约上州的“特洛伊”市的伦斯勒理工学院就读计算机专业。 毕业后又在“史蒂文斯理工学院”继续深造并取得了计算机科学的硕士学位。"
       ],
       "english": [
         "July 7, 1997 - Present (Ox)",
@@ -902,7 +914,7 @@
     "links": [
       {
         "URL": "https://github.com/Timothyw0",
-        "chinese": "王大明知乎网",
+        "chinese": "王大明开源网",
         "english": "Github"
       },
       {
@@ -932,7 +944,7 @@
   {
     "memberId": "98",
     "name": {
-      "chinese": "王婉玉",
+      "chinese": "王琬玉",
       "english": "Wang2 Wan3 Yu4 [Theresa Wang]"
     },
     "bio": {

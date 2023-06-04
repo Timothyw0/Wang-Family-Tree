@@ -5,6 +5,7 @@ import {
   Route,
   Navigate,
 } from "react-router-dom";
+import { ReactFlow, ReactFlowProvider } from "reactflow";
 
 const Home = lazy(() => import("../pages/Home"));
 const MemberBio = lazy(() => import("../pages/MemberBio"));
@@ -14,7 +15,14 @@ const Routes: React.FC = () => {
     <Suspense fallback="">
       <BrowserRouter>
         <RouterRoutes>
-          <Route path="/" element={<Home />} />
+          <Route
+            path="/"
+            element={
+              <ReactFlowProvider>
+                <Home />
+              </ReactFlowProvider>
+            }
+          />
           <Route
             path="/eduardo"
             element={

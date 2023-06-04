@@ -1,5 +1,6 @@
 import { lazy, memo, useEffect, useMemo, useState, Suspense } from "react";
-import ReactFlow, { Background } from "reactflow";
+import ReactFlow, { Background, useStore } from "reactflow";
+import { useZoomSelector } from "../../hooks/useZoomSelector";
 import WangNode from "../../components/WangNode";
 import treeJSON from "../../assets/data/familyTree.json";
 import "reactflow/dist/style.css";
@@ -45,6 +46,13 @@ interface TreeObject {
 const Home = () => {
   const [treeData, setTreeData] = useState<TreeObject>();
   const nodeTypes = useMemo(() => ({ wangNode: WangNode }), []);
+  const { zoom, setNewZoom } = useZoomSelector();
+
+  const zoomState = useStore((state) => state?.transform);
+
+  const handleMove = () => {
+    setNewZoom(zoomState);
+  };
 
   const documentHeight = () => {
     const doc = document.documentElement;
@@ -95,7 +103,13 @@ const Home = () => {
           nodeTypes={nodeTypes}
           nodesConnectable={false}
           minZoom={0}
-          fitView
+          onMoveEnd={handleMove}
+          defaultViewport={{
+            x: zoom[0] || 0,
+            y: zoom[1] || 0,
+            zoom: zoom[2] || 1,
+          }}
+          fitView={!zoom?.length}
         >
           <Background color="#aaa" gap={16} />
         </ReactFlow>

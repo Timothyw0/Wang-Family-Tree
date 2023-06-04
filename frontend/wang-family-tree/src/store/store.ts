@@ -1,9 +1,11 @@
 import { configureStore } from "@reduxjs/toolkit";
 import languageReducer from "./languageSlice";
+import zoomReducer from "./zoomSlice";
 
 const store = configureStore({
   reducer: {
     language: languageReducer,
+    zoom: zoomReducer,
   },
 });
 

@@ -5,7 +5,7 @@ import {
   Route,
   Navigate,
 } from "react-router-dom";
-import { ReactFlow, ReactFlowProvider } from "reactflow";
+import { ReactFlowProvider } from "reactflow";
 
 const Home = lazy(() => import("../pages/Home"));
 const MemberBio = lazy(() => import("../pages/MemberBio"));

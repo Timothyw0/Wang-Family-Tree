@@ -15,6 +15,12 @@ import { useLanguageSelector } from "../../hooks/useLanguageSelector";
 
 const Navbar = lazy(() => import("../../components/Navbar"));
 
+interface LinkObject {
+  URL: string;
+  chinese: string;
+  english: string;
+}
+
 interface MemberObject {
   memberId?: string;
   name: {
@@ -27,6 +33,7 @@ interface MemberObject {
   };
   photoURLs?: Array<string>;
   photoURL?: string;
+  links?: Array<LinkObject>;
 }
 
 const MemberBio = (props: any) => {
@@ -49,6 +56,10 @@ const MemberBio = (props: any) => {
       isClosable: true,
     });
     navigate("/");
+  };
+
+  const openPicture = (link: string) => {
+    window.open(link, "_blank");
   };
 
   useEffect(() => {
@@ -88,6 +99,8 @@ const MemberBio = (props: any) => {
                     src={photo}
                     borderRadius="lg"
                     referrerPolicy="no-referrer"
+                    onClick={() => openPicture(photo)}
+                    style={{ cursor: "pointer" }}
                   />
                 ))
               ) : (
@@ -95,6 +108,8 @@ const MemberBio = (props: any) => {
                   src={memberData?.photoURL || noPicture}
                   borderRadius="lg"
                   referrerPolicy="no-referrer"
+                  onClick={() => openPicture(memberData?.photoURL || noPicture)}
+                  style={{ cursor: "pointer" }}
                 />
               )}
             </SimpleGrid>
@@ -112,7 +127,29 @@ const MemberBio = (props: any) => {
                       <br />
                     </>
                   ))
-                : memberData?.bio?.chinese}
+                : memberData?.bio?.chinese?.map((bio: string) => (
+                    <>
+                      {bio}
+                      <br />
+                      <br />
+                    </>
+                  ))}
+            </Text>
+            <Text size="md" className="text-center py-2">
+              {memberData?.links &&
+                memberData.links?.length &&
+                memberData.links.map((link: LinkObject) => (
+                  <>
+                    <a
+                      href={link?.URL}
+                      target="_blank"
+                      className="font-medium text-blue-600 dark:text-blue-500 hover:underline"
+                    >
+                      {language === "English" ? link?.english : link?.chinese}
+                    </a>
+                    <br />
+                  </>
+                ))}
             </Text>
           </CardBody>
         </Card>

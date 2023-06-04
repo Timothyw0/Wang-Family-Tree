@@ -3,7 +3,6 @@ import { StarIcon } from "@chakra-ui/icons";
 import { Link } from "react-router-dom";
 import { Handle, Position } from "reactflow";
 import { useLanguageSelector } from "../../hooks/useLanguageSelector";
-import "./WangNode.css";
 
 interface NameObject {
   name: {
@@ -14,6 +13,7 @@ interface NameObject {
   isWang?: boolean;
   isMale?: boolean;
   hasBio?: boolean;
+  style?: object;
 }
 
 interface NodeObject {
@@ -35,9 +35,7 @@ const WangNode = (props: NodeObject) => {
   const isWangMale: boolean = data?.names?.[0]?.isMale || false;
   const ageOrder = (
     <strong style={{ color: isWangMale ? "red" : "green" }}>
-      {isWangMale
-        ? data?.ageOrder
-        : data?.ageOrder && String.fromCharCode(data?.ageOrder + 64)}
+      {isWangMale ? data?.ageOrder : `(${data?.ageOrder})`}
     </strong>
   );
 

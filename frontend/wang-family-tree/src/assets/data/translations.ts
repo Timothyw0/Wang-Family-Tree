@@ -17,23 +17,25 @@ export const bioChinese = {
 };
 
 export const legendEnglish = {
+  downloadText: "Download Image",
   legendTitle: "Legend",
   legendItems: [
     ["Red Color", "Male"],
     ["Green Color", "Female"],
     ["Star", "Is Wang Child"],
     ["1, 2, 3...", "Male order by age"],
-    ["A, B, C...", "Female order by age"],
+    ["(1), (2), (3)...", "Female order by age"],
   ],
 };
 
 export const legendChinese = {
+  downloadText: "图像下载",
   legendTitle: "图例",
   legendItems: [
     ["红色字体", "男士"],
     ["绿色字体", "女士"],
     ["Star", "代表王氏子女"],
     ["1, 2, 3...", "从第八代开始，男士排行顺序"],
-    ["A, B, C...", "从第八代开始，女士排行顺序"],
+    ["(1), (2), (3)...", "从第八代开始，女士排行顺序"],
   ],
 };

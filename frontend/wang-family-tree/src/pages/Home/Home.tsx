@@ -1,11 +1,9 @@
 import { lazy, memo, useEffect, useMemo, useState, Suspense } from "react";
-import ReactFlow, { Background, Panel } from "reactflow";
-import { toPng } from "html-to-image";
+import ReactFlow, { Background } from "reactflow";
 import WangNode from "../../components/WangNode";
 import treeJSON from "../../assets/data/familyTree.json";
 import "reactflow/dist/style.css";
 import styles from "./Home.module.css";
-import { Button } from "@chakra-ui/react";
 
 const Legend = lazy(() => import("../../components/Legend"));
 const Navbar = lazy(() => import("../../components/Navbar"));
@@ -36,6 +34,7 @@ interface NodeObject {
     x: number;
     y: number;
   };
+  style?: object;
 }
 
 interface TreeObject {
@@ -50,28 +49,6 @@ const Home = () => {
   const documentHeight = () => {
     const doc = document.documentElement;
     doc.style.setProperty("--doc-height", `${window.innerHeight}px`);
-  };
-
-  const downloadImage = async () => {
-    const reactFlow: HTMLElement = document.querySelector(".react-flow")!;
-    const reactPicture = await toPng(reactFlow, {
-      filter: (node) => {
-        if (
-          node?.classList?.contains("react-flow__panel") ||
-          node?.classList?.contains("chakra-button")
-        )
-          return false;
-        return true;
-      },
-      backgroundColor: "#fff",
-    });
-    const a = document.createElement("a");
-
-    a.setAttribute("download", "Wang-Family-Tree.png");
-    a.setAttribute("href", reactPicture);
-    a.click();
-
-    a.remove();
   };
 
   useEffect(() => {
@@ -98,7 +75,10 @@ const Home = () => {
                   border: "1px solid #777",
                   padding: 10,
                   borderRadius: "5px",
-                  width: "150px",
+                  background: "#fff",
+                  textAlign: "center",
+                  width: "175px",
+                  ...elem?.style,
                 },
               })),
             [treeData]
@@ -118,9 +98,6 @@ const Home = () => {
           fitView
         >
           <Background color="#aaa" gap={16} />
-          <Panel position="bottom-right" className="py-10">
-            <Button onClick={downloadImage}>Download Image</Button>
-          </Panel>
         </ReactFlow>
         <div className={styles.legend}>
           <Legend />

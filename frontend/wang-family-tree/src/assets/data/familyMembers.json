@@ -1,70 +1,976 @@
 [
   {
-    "memberId": "0",
-    "name": {
-      "chinese": "振宗王府君",
-      "english": "Wang Something"
-    },
-    "bio": {
-      "chinese": ["Chinese bio here"],
-      "english": ["Born in ajsdlfjasldijfiajwerflijalsjdflij"]
-    },
-    "photoURLs": [
-      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/blank-image.jpg",
-      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/LBXX.jpg",
-      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/blank-image.jpg",
-      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/blank-image.jpg",
-      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/LBXX.jpg",
-      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/LBXX.jpg"
-    ]
-  },
-  {
     "memberId": "39",
     "name": {
-      "chinese": "王槐荫(午亭)",
-      "english": "Wang WuTing"
+      "chinese": "名王槐荫，号王午亭。",
+      "english": "Wang2 Huai2 Yin1 (Wu3 Ting2)"
     },
     "bio": {
-      "chinese": ["Chinese bio here"],
-      "english": ["English bio here"]
-    },
-    "photoURLs": [
-      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangWuTing/1.jpg"
-    ]
-  },
-  {
-    "memberId": "98",
-    "name": {
-      "chinese": "王大明",
-      "english": "Timothy Wang"
-    },
-    "bio": {
-      "chinese": ["Chinese bio here"],
+      "chinese": [
+        "1894年7月23日 - 1946年5月x日 (属马)",
+        "浅谈堂号 (三槐堂)",
+        "过去在北京一提起是三槐堂的人，就知道此人姓王。",
+        "午亭公先辈曾在前清内务府掌管帘子库，故王府有“帘子王”之称。"
+      ],
       "english": [
-        "July 7, 1997 - Present",
-        "Timothy Wang was born in Flushing, NY. He grew up in South River, NJ and went to undergraduate college at Rensselaer Polytechnic Institue in Troy, NY studying Computer Science. He also attended Stevens Institute of Technology for a Master of Science degree in Computer Science."
+        "July 23, 1894 - May, 1946",
+        "Talking about brand name (San1 Huai2 Tang2)",
+        "In the past, when people in Beijing were mentioned as a member of San Huai Tang, they knew that the person was named Wang.",
+        "The ancestors of Mr. Wang Wu Ting used to be in charge of the curtain storehouse in the House of Internal Affairs in the former Qing Dynasty, so the palace was known as the \"King of Curtains\"."
       ]
     },
     "photoURLs": [
-      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/TimothyWang/1.jpg",
-      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/TimothyWang/2.jpg",
-      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/TimothyWang/3.jpg"
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangWuTing/1.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangWuTing/2.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangWuTing/3.jpg"
+    ]
+  },
+  {
+    "memberId": "40",
+    "name": {
+      "chinese": "祝书琴",
+      "english": "Zhu4 Shu1 Qin2"
+    },
+    "bio": {
+      "chinese": ["1892年11月11日 - 1937年7月23日 (属龙)"],
+      "english": ["November 11, 1892 - July 23, 1937 (Dragon)"]
+    },
+    "photoURLs": [
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/ZhuShuQin/1.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/ZhuShuQin/2.jpg"
+    ]
+  },
+  {
+    "memberId": "54",
+    "name": {
+      "chinese": "名王世焜，号光宇。",
+      "english": "Wang2 Shi4 Kun1 (Guang1 Yu3)"
+    },
+    "bio": {
+      "chinese": ["1910年12月1日 - 1978年10月x日 (属狗)"],
+      "english": ["December 1, 1910 - October, 1978 (Dog)"]
+    },
+    "photoURLs": [
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangShiKun/1.jpg"
+    ]
+  },
+  {
+    "memberId": "55",
+    "name": {
+      "chinese": "名孔令柔，号孔亦刚。",
+      "english": "Kong3 Ling3 Rou2 (Yi4 Gang1)"
+    },
+    "bio": {
+      "chinese": ["1910年10月21日 - 2001年6月27日 (属狗)"],
+      "english": ["October 21, 1910 - June 27, 2001 (Dog)"]
+    },
+    "photoURLs": [
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/KongLingRou/1.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/ZhuShuQin/2.jpg"
+    ]
+  },
+  {
+    "memberId": "51",
+    "name": {
+      "chinese": "王世煐(方宇)",
+      "english": "Wang2 Shi4 Ying1 (Fang1 Yu3) [Fred Wang]"
+    },
+    "bio": {
+      "chinese": ["1913年2月2日 - 1997年10月6日 (属牛)"],
+      "english": ["February 2, 1913 - October 6, 1997 (Ox)"]
+    },
+    "photoURLs": [
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangFangYu/1.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangFangYu/2.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangFangYu/3.jpg"
+    ],
+    "links": [
+      {
+        "URL": "https://baike.baidu.com/item/%E7%8E%8B%E6%96%B9%E5%AE%87/6697666",
+        "chinese": "王方宇 百度百科",
+        "english": ""
+      },
+      {
+        "URL": "https://en.wikipedia.org/wiki/Fred_Fangyu_Wang",
+        "chinese": "",
+        "english": "Fred Fangyu Wang Wikipedia"
+      },
+      {
+        "URL": "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangFangYu/visit_journal.htm",
+        "chinese": "王方宇 探亲记 (1979年4月10日)",
+        "english": ""
+      }
+    ]
+  },
+  {
+    "memberId": "52",
+    "name": {
+      "chinese": "黄雅",
+      "english": "Huang2 Ya3"
+    },
+    "bio": {
+      "chinese": ["1911年9月13日 - 1980年5月x日 (属猪)"],
+      "english": ["September 13, 1911 - May, 1980 (Pig)"]
+    },
+    "photoURLs": [
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/HuangYa/1.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/HuangYa/2.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/ZhuShuQin/2.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangFangYu/3.jpg"
+    ]
+  },
+  {
+    "memberId": "53",
+    "name": {
+      "chinese": "沈慧",
+      "english": "Shen3 Hui4"
+    },
+    "bio": {
+      "chinese": ["1917年10月x日 - 1996年6月x日 (属x)"],
+      "english": ["October, 1917 - June, 1996"]
+    },
+    "photoURLs": [
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/ShenHui/1.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangFangYu/2.jpg"
+    ]
+  },
+  {
+    "memberId": "49",
+    "name": {
+      "chinese": "王世芬",
+      "english": "Wang2 Shi4 Fen1"
+    },
+    "bio": {
+      "chinese": ["1915年4月8日 - 2005年4月30日 (属兔)"],
+      "english": ["April 8, 1915 - April 30, 2005 (Rabbit)"]
+    },
+    "photoURLs": [
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangShiFen/1.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangShiFen/2.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangShiFen/3.jpg"
+    ],
+    "links": [
+      {
+        "URL": "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangShiFen/Note_cn.htm",
+        "chinese": "纪念王世芬",
+        "english": ""
+      },
+      {
+        "URL": "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangShiFen/Note_en.htm",
+        "chinese": "",
+        "english": "In memory of Wang ShiFen"
+      }
+    ]
+  },
+  {
+    "memberId": "50",
+    "name": {
+      "chinese": "朴廷度 (公晋)",
+      "english": "Piao2 Ting2 Du4 (Gong1 Jin4)"
+    },
+    "bio": {
+      "chinese": ["1917年12月19日 - 1997年4月1日 (属蛇)"],
+      "english": ["December 19, 1917 - April 1, 1997 (Snake)"]
+    },
+    "photoURLs": [
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/PiaoTingDu/1.jpg"
+    ]
+  },
+  {
+    "memberId": "46",
+    "name": {
+      "chinese": "王世炜 (北宇)",
+      "english": "Wang2 Shi4 Wei3 (Bei3 Yu3)"
+    },
+    "bio": {
+      "chinese": ["1918年 - 1973"],
+      "english": ["1918 - 1973"]
+    },
+    "photoURLs": [
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangShiWei/1.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangShiWei/2.jpg"
+    ]
+  },
+  {
+    "memberId": "47",
+    "name": {
+      "chinese": "曹媛",
+      "english": "Cao2 Yuan2"
+    },
+    "bio": {
+      "chinese": ["1921年5月 - 1997年4月"],
+      "english": ["May, 1921 - April, 1997"]
+    },
+    "photoURLs": [
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/CaoYuan/1.jpg"
+    ]
+  },
+  {
+    "memberId": "43",
+    "name": {
+      "chinese": "王芳",
+      "english": "Wang2 Fang1"
+    },
+    "bio": {
+      "chinese": ["1929年 - 2021年7月24日"],
+      "english": ["1929 - July 24, 2021"]
+    },
+    "photoURLs": [
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangFang/1.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangFang/2.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangShiWei/2.jpg"
+    ]
+  },
+  {
+    "memberId": "44",
+    "name": {
+      "chinese": "祝士襄",
+      "english": "Zhu4 Shi4 Xiang1"
+    },
+    "bio": {
+      "chinese": [""],
+      "english": [""]
+    },
+    "photoURLs": [
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/ZhuShiXiang/1.jpg"
+    ]
+  },
+  {
+    "memberId": "76",
+    "name": {
+      "chinese": "王久纯",
+      "english": "Wang2 Jiu3 Chun2"
+    },
+    "bio": {
+      "chinese": ["1929年8月19日 - ? (属蛇) "],
+      "english": ["August 19, 1929 - ? (Snake)"]
+    },
+    "photoURLs": [
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangJiuChun/1.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangFang/2.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangShiWei/2.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangJiuChun/2.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangJiuChun/3.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangJiuChun/4.jpg"
+    ]
+  },
+  {
+    "memberId": "77",
+    "name": {
+      "chinese": "晋军",
+      "english": "Jin4 Jun1"
+    },
+    "bio": {
+      "chinese": ["1929年10月14日 - 1985年9月3日 (属蛇)"],
+      "english": ["October 14, 1929 - September 3, 1985 (Snake)"]
+    },
+    "photoURLs": [
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/JinJun/1.jpg"
+    ]
+  },
+  {
+    "memberId": "200",
+    "name": {
+      "chinese": "张琪文",
+      "english": "Zhang1 Qi2 Wen2"
+    },
+    "bio": {
+      "chinese": [
+        "1929年8月19日 - ? (属蛇) "
+      ],
+      "english": [
+        "August 19, 1929 - ? (Snake)"
+      ]
+    },
+    "photoURLs": [
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/ZhangQiWen/1.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangJiuChun/4.jpg"
+    ]
+  },
+  {
+    "memberId": "73",
+    "name": {
+      "chinese": "王久绵 (王显)",
+      "english": "Wang2 Jiu3 Mian2 (Wang2 Xian3)"
+    },
+    "bio": {
+      "chinese": ["1932年10月26日 - ? (属猴)"],
+      "english": ["October 26, 1932 - ? (Monkey)"]
+    },
+    "photoURLs": [
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangXian/1.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangShiWei/2.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangFang/2.jpg"
+    ]
+  },
+  {
+    "memberId": "75",
+    "name": {
+      "chinese": "余琳",
+      "english": "Yu2 Lin2"
+    },
+    "bio": {
+      "chinese": ["1935年3月17日 - 现今 (属猪)"],
+      "english": ["March 17, 1935 - Present (Pig)"]
+    },
+    "photoURLs": [
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/YuLin/1.jpg"
+    ]
+  },
+  {
+    "memberId": "71",
+    "name": {
+      "chinese": "王玥",
+      "english": "Wang2 Yue4"
+    },
+    "bio": {
+      "chinese": ["1942年8月21日 - 2005年1月16日 (属马)"],
+      "english": ["August 21, 1942 - January 16, 2005 (Horse)"]
+    },
+    "photoURLs": [
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangYue/1.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangShiWei/2.jpg"
+    ]
+  },
+  {
+    "memberId": "72",
+    "name": {
+      "chinese": "宁锦衷",
+      "english": "Ning4 Jin3 Zhong1"
+    },
+    "bio": {
+      "chinese": ["1940年11月17日 - 现今 (属龙)"],
+      "english": ["November 17, 1940 - Present (Dragon)"]
+    },
+    "photoURLs": [
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/blank-image.jpg"
+    ]
+  },
+  {
+    "memberId": "69",
+    "name": {
+      "chinese": "王珊",
+      "english": "Wang2 Shan1"
+    },
+    "bio": {
+      "chinese": ["1933年11月2日 - 现今 (属鸡)"],
+      "english": ["November 2, 1933 - Present (Rooster)"]
+    },
+    "photoURLs": [
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangShan/1.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangShiWei/2.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangFang/2.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/HuangYa/2.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangShan/2.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangShan/3.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangFangYu/3.jpg"
+    ]
+  },
+  {
+    "memberId": "70",
+    "name": {
+      "chinese": "冯学理",
+      "english": "Feng2 Xue2 Li3"
+    },
+    "bio": {
+      "chinese": ["1928年2月18日 - 2011年9月3日 (属龙)"],
+      "english": ["February 18, 1928 - September 3, 2011 (Dragon)"]
+    },
+    "photoURLs": [
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/FengXueLi/1.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/HuangYa/2.jpg"
+    ]
+  },
+  {
+    "memberId": "67",
+    "name": {
+      "chinese": "王久绅",
+      "english": "Wang2 Jiu3 Shen1"
+    },
+    "bio": {
+      "chinese": ["1936年7月1日 - 现今 (属鼠)"],
+      "english": ["July 1, 1936 - Present (Rat)"]
+    },
+    "photoURLs": [
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangShiWei/2.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangJiuShen/1.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/HuangYa/2.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangJiuShen/2.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangJiuShen/3.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangJiuShen/4.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangShan/3.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangFangYu/3.jpg"
+    ]
+  },
+  {
+    "memberId": "68",
+    "name": {
+      "chinese": "冯惠姝",
+      "english": "Feng2 Hui4 Shu1"
+    },
+    "bio": {
+      "chinese": ["1939年10月1日 - 现今 (属虎)"],
+      "english": ["October 1, 1939 - Present (Tiger)"]
+    },
+    "photoURLs": [
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/FengHuiShu/1.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/HuangYa/2.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/FengHuiShu/2.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangJiuShen/3.jpg"
+    ]
+  },
+  {
+    "memberId": "65",
+    "name": {
+      "chinese": "王久纶",
+      "english": "Wang2 Jiu3 Lun2"
+    },
+    "bio": {
+      "chinese": ["1940年x月x日 - 现今 (属龙)"],
+      "english": ["1949 - Present (Dragon)"]
+    },
+    "photoURLs": [
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangJiuLun/1.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/HuangYa/2.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangShiWei/2.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangJiuLun/2.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangJiuLun/3.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangShan/3.jpg"
+    ]
+  },
+  {
+    "memberId": "66",
+    "name": {
+      "chinese": "王惠英",
+      "english": "Wang2 Hui4 Ying1"
+    },
+    "bio": {
+      "chinese": ["1939年x月x日 - 现今 (属兔)"],
+      "english": ["1939 - Present (Rabbit)"]
+    },
+    "photoURLs": [
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangHuiYing/1.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/HuangYa/2.jpg"
+    ]
+  },
+  {
+    "memberId": "63",
+    "name": {
+      "chinese": "王少方",
+      "english": "Wang2 Shao4 Fang1"
+    },
+    "bio": {
+      "chinese": [""],
+      "english": [""]
+    },
+    "photoURLs": [
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangShaoFang/1.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangShaoFang/2.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangShaoFang/3.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangShan/3.jpg"
+    ]
+  },
+  {
+    "memberId": "64",
+    "name": {
+      "chinese": "陆丽施",
+      "english": "Lu4 Li4 Shi1"
+    },
+    "bio": {
+      "chinese": [""],
+      "english": [""]
+    },
+    "photoURLs": [
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/LuLiShi/1.jpg"
+    ]
+  },
+  {
+    "memberId": "58",
+    "name": {
+      "chinese": "王久缄",
+      "english": "Wang2 Jiu3 Jian3"
+    },
+    "bio": {
+      "chinese": ["1949年11月26日 - 现今 (属牛)"],
+      "english": ["November 26, 1949 - Present (Ox)"]
+    },
+    "photoURLs": [
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/blank-image.jpg"
+    ]
+  },
+  {
+    "memberId": "59",
+    "name": {
+      "chinese": "梁纯英",
+      "english": "Liang2 Chun2 Ying1"
+    },
+    "bio": {
+      "chinese": ["1951年8月23日 - 现今 (属兔)"],
+      "english": ["August 23, 1951 - Present (Rabbit)"]
+    },
+    "photoURLs": [
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/blank-image.jpg"
+    ]
+  },
+  {
+    "memberId": "56",
+    "name": {
+      "chinese": "王久纮",
+      "english": "Wang2 Jiu3 Hong2"
+    },
+    "bio": {
+      "chinese": ["1955年9月21日 - 现今 (属羊)"],
+      "english": ["September 21, 1955 - Present (Goat)"]
+    },
+    "photoURLs": [
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangJiuHong/1.jpg"
+    ]
+  },
+  {
+    "memberId": "57",
+    "name": {
+      "chinese": "李丽华",
+      "english": "Li3 Li4 Hua2"
+    },
+    "bio": {
+      "chinese": ["1956年4月11日 - 现今 (属猴)"],
+      "english": ["April 11, 1956 - Present (Monkey)"]
+    },
+    "photoURLs": [
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/LiLiHua/1.jpg"
+    ]
+  },
+  {
+    "memberId": "60",
+    "name": {
+      "chinese": "王琪",
+      "english": "Wang2 Qi2"
+    },
+    "bio": {
+      "chinese": ["1957年7月5日 - 现今 (属猪)"],
+      "english": ["July 5, 1947 - Present (Pig)"]
+    },
+    "photoURLs": [
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangQi/1.jpg"
+    ]
+  },
+  {
+    "memberId": "61",
+    "name": {
+      "chinese": "张国泰",
+      "english": "Zhang1 Guo2 Tai4"
+    },
+    "bio": {
+      "chinese": ["1944年8月18日 - ? (属猴)"],
+      "english": ["August 18, 1944 - ? (Monkey)"]
+    },
+    "photoURLs": [
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/blank-image.jpg"
+    ]
+  },
+  {
+    "memberId": "62",
+    "name": {
+      "chinese": "池振英",
+      "english": "Chi2 Zhen4 Ying1"
+    },
+    "bio": {
+      "chinese": ["1942年1月27日 - ? (属蛇)"],
+      "english": ["January 27, 1942 - ? (Snake)"]
+    },
+    "photoURLs": [
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/blank-image.jpg"
+    ]
+  },
+
+  {
+    "memberId": "95",
+    "name": {
+      "chinese": "王刚",
+      "english": "Wang2 Gang1"
+    },
+    "bio": {
+      "chinese": ["1953年7月11日 - 现今 (属蛇)"],
+      "english": ["July 11, 1953 - Present (Snake)"]
+    },
+    "photoURLs": [
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangGang/1.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangGang/2.jpg"
+    ]
+  },
+  {
+    "memberId": "96",
+    "name": {
+      "chinese": "赵婉生",
+      "english": "Zhao4 Wang3 Sheng1"
+    },
+    "bio": {
+      "chinese": ["195５年x月x日 - 现今 (属羊)"],
+      "english": ["1995 - Present (Goat)"]
+    },
+    "photoURLs": [
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/blank-image.jpg"
+    ]
+  },
+  {
+    "memberId": "94",
+    "name": {
+      "chinese": "王禾",
+      "english": "Wang2 He2"
+    },
+    "bio": {
+      "chinese": ["1961年1月1日 - 现今 (属牛)"],
+      "english": ["January 1, 1961 - Present (Ox)"]
+    },
+    "photoURLs": [
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangHe/1.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangHe/2.jpg"
+    ]
+  },
+  {
+    "memberId": "91",
+    "name": {
+      "chinese": "王小来",
+      "english": "Wang2 Xiao3 Lai2"
+    },
+    "bio": {
+      "chinese": ["1968年10月20日 - 现今 (属猴)"],
+      "english": ["October 20, 1968 - Present (Monkey)"]
+    },
+    "photoURLs": [
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangXiaoLai/1.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangXiaoLai/2.jpg"
+    ]
+  },
+  {
+    "memberId": "92",
+    "name": {
+      "chinese": "李君",
+      "english": "Li3 Jun1"
+    },
+    "bio": {
+      "chinese": ["1969年5月29日 - 现今 (属鸡)"],
+      "english": ["May 29, 1969 - Present (Rooster)"]
+    },
+    "photoURLs": [
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/LiJun/1.jpg"
+    ]
+  },
+  {
+    "memberId": "89",
+    "name": {
+      "chinese": "王强",
+      "english": "Wang2 Qiang2 [Charlie Wang]"
+    },
+    "bio": {
+      "chinese": [
+        "1964年5月3日 - 现今 (属龙)" ,
+        "王强出生于北京，成长于北京，云南，安徽。 1991年初移民到美国，1995年毕业于“美国纽约市大学史太登岛分校”的计算机专业，并取得了计算机科学的硕士学位。先后在美国纽约市居住了10年, 新泽西州居住了20年。现在搬至乔治亚州的亚特兰大市享受着清心寡欲的退休生活。 "
+      ],
+      "english": [
+        "May 3, 1964 - Present (Dragon)",
+        "Charlie Wang was born in Beijing, China. He grew up in Beijing, Yunnan, and Anhui. In 1991, he immigrated to the United States. He went to The College of Staten Island (The City University of New York) for a Master of Science degree in Computer Science. He lived in New York City for 10 years, New Jersey for 20 years. Now he is living in Atlanta, Georgia enjoying a peaceful retirement life."
+      ]
+    },
+    "photoURLs": [
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangQiang/1.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/HuangYa/2.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangQiang/2.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangQiang/3.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangQiang/4.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangQiang/5.jpg"
+    ]
+  },
+  {
+    "memberId": "90",
+    "name": {
+      "chinese": "刘君波",
+      "english": "Liu2 Jun1 Bo1"
+    },
+    "bio": {
+      "chinese": [
+        "1964年5月6日 - 现今 (属龙)" ,
+        "刘君波出生于北京，成长于北京。并且在北京居住生活了25年。1994年移民到美国。先后在美国纽约市居住了10年, 新泽西州居住了20年。现在搬至乔治亚州的亚特兰大市享受着清心寡欲的退休生活。"
+      ],
+      "english": [
+        "May 6, 1964 - Present (Dragon)",
+        "Junbo Liu was born in Beijing, China. She grew up in Beijing, lived, and worked in Beijing for 25 years. In 1994, she immigrated to the United States. She lived in New York City for 10 years, New Jersey for 20 years. Now she is living in Atlanta, Georgia enjoying a peaceful retirement life."
+      ]
+    },
+    "photoURLs": [
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/LiuJunBo/1.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangQiang/3.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/LiuJunBo/2.jpg"
+    ]
+  },
+  {
+    "memberId": "87",
+    "name": {
+      "chinese": "王莉",
+      "english": "Wang2 Li4 [Lily Wang]"
+    },
+    "bio": {
+      "chinese": ["1972年9月1日 - 现今 (属鼠)"],
+      "english": ["September 1, 1972 - Present (Rat)"]
+    },
+    "photoURLs": [
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangLi/1.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangLi/2.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangLi/3.jpg"
+    ]
+  },
+  {
+    "memberId": "88",
+    "name": {
+      "chinese": "黄啟彰",
+      "english": "Huang2 Qi3 Zhang1 [John Huang]"
+    },
+    "bio": {
+      "chinese": ["1970年11月29日 - 现今 (属狗)"],
+      "english": ["November 29, 1970 - Present (Dog)"]
+    },
+    "photoURLs": [
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/HuangQiZhang/1.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangLi/3.jpg"
+    ]
+  },
+  {
+    "memberId": "85",
+    "name": {
+      "chinese": "王诚",
+      "english": "Wang2 Cheng2"
+    },
+    "bio": {
+      "chinese": [""],
+      "english": [""]
+    },
+    "photoURLs": [
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangCheng/1.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangCheng/2.jpg"
+    ]
+  },
+  {
+    "memberId": "86",
+    "name": {
+      "chinese": "王晨",
+      "english": "Wang2 Chen2"
+    },
+    "bio": {
+      "chinese": [""],
+      "english": [""]
+    },
+    "photoURLs": [
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangChen/1.jpg"
+    ]
+  },
+
+  {
+    "memberId": "84",
+    "name": {
+      "chinese": "王真",
+      "english": "Wang2 Zhen1"
+    },
+    "bio": {
+      "chinese": ["1989年1月X日 - 现今 (属猴)"],
+      "english": ["January, 1989 - Present (Monkey)"]
+    },
+    "photoURLs": [
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangZhen/1.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangZhen/2.jpg"
+    ]
+  },
+  {
+    "memberId": "83",
+    "name": {
+      "chinese": "王智",
+      "english": "Wang2 Zhi4"
+    },
+    "bio": {
+      "chinese": [""],
+      "english": [""]
+    },
+    "photoURLs": [
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangZhi/1.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangZhi/2.jpg"
+    ]
+  },
+  {
+    "memberId": "82",
+    "name": {
+      "chinese": "王传方",
+      "english": "Wang2 Chuan2 Fang1"
+    },
+    "bio": {
+      "chinese": [""],
+      "english": [""]
+    },
+    "photoURLs": [
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangChuanFang/1.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangChuanFang/2.jpg"
+    ]
+  },
+
+  {
+    "memberId": "78",
+    "name": {
+      "chinese": "王遂",
+      "english": "Wang2 Sui2"
+    },
+    "bio": {
+      "chinese": ["1982年7月2日 - 现今 (属狗)"],
+      "english": ["July 2, 1982 - Present (Dog)"]
+    },
+    "photoURLs": [
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangSui/1.jpg"
+    ]
+  },
+  {
+    "memberId": "80",
+    "name": {
+      "chinese": "王行 (王衍)",
+      "english": "Wang2 Xing2 (Wang2 Yan3)"
+    },
+    "bio": {
+      "chinese": ["1981年7月17日 - 现今 (属鸡)"],
+      "english": ["July 17, 1981 - Present (Rooster)"]
+    },
+    "photoURLs": [
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangXing/1.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangXing/2.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangXing/3.jpg"
+    ]
+  },
+  {
+    "memberId": "81",
+    "name": {
+      "chinese": "陈洁文",
+      "english": "Chen2 Jie2 Wen2"
+    },
+    "bio": {
+      "chinese": ["1983年9月12日 - 现今 (属猪)"],
+      "english": ["September 12, 1983 - Present (Pig)"]
+    },
+    "photoURLs": [
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/blank-image.jpg"
+    ]
+  },
+
+  {
+    "memberId": "101",
+    "name": {
+      "chinese": "晋伊",
+      "english": "Jin4 Yi1"
+    },
+    "bio": {
+      "chinese": ["1985年12月2日 - 现今 (属牛)"],
+      "english": ["December 2, 1985 - Present (Ox)"]
+    },
+    "photoURLs": [
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/blank-image.jpg"
     ]
   },
   {
     "memberId": "99",
     "name": {
-      "chinese": "沛欣",
-      "english": "Madeleine Herring"
+      "chinese": "王大明",
+      "english": "Wang2 Da4 Ming2 [Timothy Wang]"
     },
     "bio": {
-      "chinese": ["Chinese bio here"],
+      "chinese": [
+        "1997年7月7日 - 现今 (属牛)" ,
+        "王大明生于美国纽约的法拉盛。 成长于美国新泽西的南河小镇。 高中毕业后进入了美国纽约上州的“特洛伊”市的伦斯勒理工学院就读计算机专业。 毕业后又在“史蒂文斯理工学院”继续深造并取得了计算机科学的硕士学位。"
+      ],
+      "english": [
+        "July 7, 1997 - Present (Ox)",
+        "Timothy Wang was born in Flushing, NY. He grew up in South River, NJ and went to undergraduate college at Rensselaer Polytechnic Institue in Troy, NY studying Computer Science. He also attended Stevens Institute of Technology for a Master of Science degree in Computer Science."
+      ]
+    },
+    "photoURLs": [
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangDaMing/1.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangDaMing/2.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangDaMing/3.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangDaMing/4.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangDaMing/5.jpg"
+    ],
+    "links": [
+      {
+        "URL": "https://github.com/Timothyw0",
+        "chinese": "王大明开源网",
+        "english": "Github"
+      },
+      {
+        "URL": "https://www.tim-wang.com",
+        "chinese": "王大明网站",
+        "english": "My Website"
+      }
+    ]
+  },
+  {
+    "memberId": "100",
+    "name": {
+      "chinese": "何沛欣 [麦德琳]",
+      "english": "He2 Pei4 Xin1 [Madeleine H. Wang]"
+    },
+    "bio": {
+      "chinese": ["1997年11月23日 - 现今 (属牛)"],
       "english": ["November 23, 1997 - Present", "English bio here"]
     },
     "photoURLs": [
       "https://wang-photo.s3.ap-southeast-1.amazonaws.com/MadeleineHerring/1.jpg",
       "https://wang-photo.s3.ap-southeast-1.amazonaws.com/MadeleineHerring/2.jpg",
-      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/MadeleineHerring/3.jpg"
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/MadeleineHerring/3.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/MadeleineHerring/4.jpg"
+    ]
+  },
+  {
+    "memberId": "98",
+    "name": {
+      "chinese": "王琬玉",
+      "english": "Wang2 Wan3 Yu4 [Theresa Wang]"
+    },
+    "bio": {
+      "chinese": ["2001年3月2日 - 现今 (属蛇)"],
+      "english": ["March 2, 2001 - Present (Snake)"]
+    },
+    "photoURLs": [
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangWanYu/1.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangWanYu/2.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangWanYu/3.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangWanYu/4.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangWanYu/5.jpg"
+    ]
+  },
+  {
+    "memberId": "97",
+    "name": {
+      "chinese": "王梓熠",
+      "english": "Wang2 Zi3 Yi4"
+    },
+    "bio": {
+      "chinese": ["2015年3月10日 - 现今 (属羊)"],
+      "english": ["March 10, 2015 - Present (Goat)"]
+    },
+    "photoURLs": [
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangZiYi/1.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangZiYi/2.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangZiYi/3.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangZiYi/4.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangZiYi/5.jpg"
+    ]
+  },
+
+  {
+    "memberId": "00",
+    "name": {
+      "chinese": "Chinese Name",
+      "english": "English Name"
+    },
+    "bio": {
+      "chinese": ["Chinese Bio"],
+      "english": ["English bio"]
+    },
+    "photoURLs": [
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/blank-image.jpg"
     ]
   }
 ]

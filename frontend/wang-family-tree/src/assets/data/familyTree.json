@@ -7,17 +7,16 @@
           {
             "name": {
               "chinese": "振宗王府君",
-              "english": "Zheng Zong Wang Fu Jun"
+              "english": "Zheng4 Zong1 Wang2 Fu3 Jun1"
             },
             "id": 0,
             "isWang": true,
-            "isMale": true,
-            "hasBio": true
+            "isMale": true
           },
           {
             "name": {
               "chinese": "张太君",
-              "english": "Zhang Tai Jun"
+              "english": "Zhang1 Tai4 Jun1"
             },
             "id": 1,
             "isMale": false
@@ -36,7 +35,7 @@
           {
             "name": {
               "chinese": "镛王府君",
-              "english": "Wang"
+              "english": "Yong1 Wang2 Fu3 Jun1"
             },
             "isWang": true,
             "isMale": true,
@@ -45,7 +44,7 @@
           {
             "name": {
               "chinese": "杨太君",
-              "english": "Not Wang"
+              "english": "Yang2 Tai4 Jun1"
             },
             "isMale": false,
             "id": 3
@@ -64,7 +63,7 @@
           {
             "name": {
               "chinese": "钧王府君",
-              "english": "Wang"
+              "english": "Jun1 Wang2 Fu3 Jun1"
             },
             "isWang": true,
             "isMale": true,
@@ -73,7 +72,7 @@
           {
             "name": {
               "chinese": "史太君",
-              "english": "Not Wang"
+              "english": "Shi3 Tai4 Jun1"
             },
             "isMale": false,
             "id": 5
@@ -81,7 +80,7 @@
           {
             "name": {
               "chinese": "马太君",
-              "english": "Not Wang"
+              "english": "Ma3 Tai4 Jun1"
             },
             "isMale": false,
             "id": 6
@@ -100,7 +99,7 @@
           {
             "name": {
               "chinese": "铭王府君",
-              "english": "Wang"
+              "english": "Ming2 Wang2 Fu3 Jun1"
             },
             "isWang": true,
             "isMale": true,
@@ -109,7 +108,7 @@
           {
             "name": {
               "chinese": "历太君",
-              "english": "Not Wang"
+              "english": "Li4 Tai4 Jun1"
             },
             "isMale": false,
             "id": 8
@@ -117,7 +116,7 @@
           {
             "name": {
               "chinese": "张太君",
-              "english": "Not Wang"
+              "english": "Zhang1 Tai4 Jun1"
             },
             "isMale": false,
             "id": 9
@@ -136,7 +135,7 @@
           {
             "name": {
               "chinese": "铎王府君",
-              "english": "Wang"
+              "english": "Duo2 Wang3 Fun3 Jun1"
             },
             "isWang": true,
             "isMale": true,
@@ -145,7 +144,7 @@
           {
             "name": {
               "chinese": "张太君",
-              "english": "Not Wang"
+              "english": "Zhang1 Tai4 Jun1"
             },
             "isMale": false,
             "id": 9
@@ -164,7 +163,7 @@
           {
             "name": {
               "chinese": "王宽裕",
-              "english": "Wang"
+              "english": "Wang2 Kuan1 Yu4"
             },
             "isWang": true,
             "isMale": true,
@@ -173,7 +172,7 @@
           {
             "name": {
               "chinese": "刘太君",
-              "english": "Not Wang"
+              "english": "Liu2 Tai4 Jun1"
             },
             "isMale": false,
             "id": 11
@@ -192,7 +191,7 @@
           {
             "name": {
               "chinese": "王兴裕",
-              "english": "Wang"
+              "english": "Wang2 Xing1 Yu4"
             },
             "isWang": true,
             "isMale": true,
@@ -201,7 +200,7 @@
           {
             "name": {
               "chinese": "顾太君",
-              "english": "Not Wang"
+              "english": "Gu4 Tai1 Jun1"
             },
             "isMale": false,
             "id": 13
@@ -220,7 +219,7 @@
           {
             "name": {
               "chinese": "王永裕",
-              "english": "Wang"
+              "english": "Wang2 Yong3 Yu4"
             },
             "isWang": true,
             "isMale": true,
@@ -229,7 +228,7 @@
           {
             "name": {
               "chinese": "傅太君",
-              "english": "Not Wang"
+              "english": "Fu4 Tai4 Jun1"
             },
             "isMale": false,
             "id": 15
@@ -248,7 +247,7 @@
           {
             "name": {
               "chinese": "王广裕",
-              "english": "Wang"
+              "english": "Wang2 Guan3 Yu4"
             },
             "isWang": true,
             "isMale": true,
@@ -257,7 +256,7 @@
           {
             "name": {
               "chinese": "王太君",
-              "english": "Not Wang"
+              "english": "Wang2 Tai4 Jun1"
             },
             "isMale": false,
             "id": 17
@@ -265,7 +264,7 @@
           {
             "name": {
               "chinese": "傅太君",
-              "english": "Not Wang"
+              "english": "Fu4 Tai4 Jun1"
             },
             "isMale": false,
             "id": 18
@@ -284,7 +283,7 @@
           {
             "name": {
               "chinese": "王德裕",
-              "english": "Wang"
+              "english": "Wang2 De2 Yu4"
             },
             "isWang": true,
             "isMale": true,
@@ -293,7 +292,7 @@
           {
             "name": {
               "chinese": "李太君",
-              "english": "Not Wang"
+              "english": "Li3 Tai4 Jun1"
             },
             "isMale": false,
             "id": 20
@@ -312,7 +311,7 @@
           {
             "name": {
               "chinese": "王治",
-              "english": "Wang"
+              "english": "Wang2 Zhi4"
             },
             "isWang": true,
             "isMale": true,
@@ -321,7 +320,7 @@
           {
             "name": {
               "chinese": "石太君",
-              "english": "Not Wang"
+              "english": "Shi2 Tai4 Jun1"
             },
             "isMale": false,
             "id": 22
@@ -340,7 +339,7 @@
           {
             "name": {
               "chinese": "王洪",
-              "english": "Wang"
+              "english": "Wang2 Hong2"
             },
             "isWang": true,
             "isMale": true,
@@ -349,7 +348,7 @@
           {
             "name": {
               "chinese": "王太君",
-              "english": "Not Wang"
+              "english": "Wang2 Tai4 Jun1"
             },
             "isMale": false,
             "id": 24
@@ -357,7 +356,7 @@
           {
             "name": {
               "chinese": "毛太君",
-              "english": "Not Wang"
+              "english": "Mao2 Tai4 Jun1"
             },
             "isMale": false,
             "id": 25
@@ -365,7 +364,7 @@
           {
             "name": {
               "chinese": "樊太君",
-              "english": "Not Wang"
+              "english": "Fan2 Tai4 Jun1"
             },
             "isMale": false,
             "id": 26
@@ -384,7 +383,7 @@
           {
             "name": {
               "chinese": "王浚",
-              "english": "Wang"
+              "english": "Wang2 Jun4"
             },
             "isWang": true,
             "isMale": true,
@@ -393,7 +392,7 @@
           {
             "name": {
               "chinese": "张太君",
-              "english": "Not Wang"
+              "english": "Zhang1 Tai4 Jun1"
             },
             "isMale": false,
             "id": 28
@@ -412,7 +411,7 @@
           {
             "name": {
               "chinese": "王涛",
-              "english": "Wang"
+              "english": "Wang2 Tao1"
             },
             "isWang": true,
             "isMale": true,
@@ -421,7 +420,7 @@
           {
             "name": {
               "chinese": "刘太君",
-              "english": "Not Wang"
+              "english": "Liu2 Tai4 Jun1"
             },
             "isMale": false,
             "id": 30
@@ -440,7 +439,7 @@
           {
             "name": {
               "chinese": "王灏",
-              "english": "Wang"
+              "english": "Wang2 Hao4"
             },
             "isWang": true,
             "isMale": true,
@@ -449,7 +448,7 @@
           {
             "name": {
               "chinese": "田太君",
-              "english": "Not Wang"
+              "english": "Tai2 Tai4 Jun1"
             },
             "isMale": false,
             "id": 32
@@ -457,7 +456,7 @@
           {
             "name": {
               "chinese": "朱太君",
-              "english": "Not Wang"
+              "english": "Zhu1 Tai4 Jun1"
             },
             "isMale": false,
             "id": 33
@@ -476,7 +475,7 @@
           {
             "name": {
               "chinese": "王廷选",
-              "english": "Wang"
+              "english": "Wang2 Ting2 Xuan3"
             },
             "isWang": true,
             "isMale": true,
@@ -485,7 +484,7 @@
           {
             "name": {
               "chinese": "梅太君",
-              "english": "Not Wang"
+              "english": "Mei2 Tai4 Jun1"
             },
             "isMale": false,
             "id": 35
@@ -493,7 +492,7 @@
           {
             "name": {
               "chinese": "王太君",
-              "english": "Not Wang"
+              "english": "Wang2 Tai4 Jun1"
             },
             "isMale": false,
             "id": 36
@@ -501,7 +500,7 @@
         ]
       },
       "position": {
-        "x": 150,
+        "x": 550,
         "y": 800
       }
     },
@@ -512,7 +511,7 @@
           {
             "name": {
               "chinese": "王青选",
-              "english": "Wang"
+              "english": "Wang2 Qing1 Xuan3"
             },
             "isWang": true,
             "isMale": true,
@@ -521,7 +520,7 @@
           {
             "name": {
               "chinese": "张太君",
-              "english": "Not Wang"
+              "english": "Zhang1 Tai4 Jun1"
             },
             "isMale": false,
             "id": 38
@@ -540,7 +539,7 @@
           {
             "name": {
               "chinese": "王槐荫(午亭)",
-              "english": "Wang WuTing"
+              "english": "Wang2 Huai2 Yin1 (Wu3 Ting2)"
             },
             "isWang": true,
             "isMale": true,
@@ -550,15 +549,16 @@
           {
             "name": {
               "chinese": "祝书琴",
-              "english": "Not Wang"
+              "english": "Zhu4 Shu1 Qin2"
             },
             "isMale": false,
+            "hasBio": true,
             "id": 40
           }
         ]
       },
       "position": {
-        "x": 150,
+        "x": 550,
         "y": 1000
       }
     },
@@ -569,7 +569,7 @@
           {
             "name": {
               "chinese": "王曾荫",
-              "english": "Wang"
+              "english": "Wang2 Zeng1 Yin1"
             },
             "isWang": true,
             "isMale": true,
@@ -578,7 +578,7 @@
           {
             "name": {
               "chinese": "张太君",
-              "english": "Not Wang"
+              "english": "Zhang1 Tai4 Jun1"
             },
             "isMale": false,
             "id": 42
@@ -597,18 +597,20 @@
           {
             "name": {
               "chinese": "王芳",
-              "english": "Wang"
+              "english": "Wang2 Fang1"
             },
             "isWang": true,
             "isMale": false,
+            "hasBio": true,
             "id": 43
           },
           {
             "name": {
               "chinese": "祝士襄",
-              "english": "Not Wang"
+              "english": "Zhu4 Shi4 Xiang1"
             },
             "isMale": true,
+            "hasBio": true,
             "id": 44
           }
         ],
@@ -626,7 +628,7 @@
           {
             "name": {
               "chinese": "王世煇",
-              "english": "Wang"
+              "english": "Wang2 Shi4 Hui1"
             },
             "isWang": true,
             "isMale": true,
@@ -646,19 +648,21 @@
         "names": [
           {
             "name": {
-              "chinese": "王世炜(北宇)",
-              "english": "Wang"
+              "chinese": "王世炜 (北宇)",
+              "english": "Wang2 Shi4 Wei3 (Bei3 Yu3)"
             },
             "isWang": true,
             "isMale": true,
+            "hasBio": true,
             "id": 46
           },
           {
             "name": {
               "chinese": "曹媛",
-              "english": "Not Wang"
+              "english": "Cao2 Yuan2"
             },
             "isMale": false,
+            "hasBio": true,
             "id": 47
           }
         ],
@@ -676,7 +680,7 @@
           {
             "name": {
               "chinese": "王世煜",
-              "english": "Wang"
+              "english": "Wang2 Shi4 Yu4"
             },
             "isWang": true,
             "isMale": true,
@@ -697,18 +701,20 @@
           {
             "name": {
               "chinese": "王世芬",
-              "english": "Wang"
+              "english": "Wang2 Shi4 Fen1"
             },
             "isWang": true,
             "isMale": false,
+            "hasBio": true,
             "id": 49
           },
           {
             "name": {
-              "chinese": "朴廷度(公晋)",
-              "english": "Not Wang"
+              "chinese": "朴廷度 (公晋)",
+              "english": "Piao2 Ting2 Du4 (Gong1 Jin4)"
             },
             "isMale": true,
+            "hasBio": true,
             "id": 50
           }
         ],
@@ -721,31 +727,35 @@
     },
     {
       "id": "24",
+      "style": { "width": "300px" },
       "data": {
         "names": [
           {
             "name": {
               "chinese": "王世煐(方宇)",
-              "english": "Wang"
+              "english": "Wang2 Shi4 Ying1 (Fang1 Yu3) [Fred Wang]"
             },
             "isWang": true,
             "isMale": true,
+            "hasBio": true,
             "id": 51
           },
           {
             "name": {
               "chinese": "黄雅",
-              "english": "Not Wang"
+              "english": "Huang2 Ya3"
             },
             "isMale": false,
+            "hasBio": true,
             "id": 52
           },
           {
             "name": {
               "chinese": "沈慧",
-              "english": "Not Wang"
+              "english": "Shen3 Hui4"
             },
             "isMale": false,
+            "hasBio": true,
             "id": 53
           }
         ],
@@ -762,19 +772,21 @@
         "names": [
           {
             "name": {
-              "chinese": "王世焜(光宇)",
-              "english": "Wang"
+              "chinese": "王世焜 (光宇)",
+              "english": "Wang2 Shi4 Kun1 (Guang1 Yu3)"
             },
             "isWang": true,
             "isMale": true,
+            "hasBio": true,
             "id": 54
           },
           {
             "name": {
-              "chinese": "孔令柔",
-              "english": "Not Wang"
+              "chinese": "孔令柔 (亦刚)",
+              "english": "Kong3 Ling3 Rou2"
             },
             "isMale": false,
+            "hasBio": true,
             "id": 55
           }
         ],
@@ -792,18 +804,20 @@
           {
             "name": {
               "chinese": "王久纮",
-              "english": "Wang"
+              "english": "Wang2 Jiu3 Hong2"
             },
             "isWang": true,
             "isMale": true,
+            "hasBio": true,
             "id": 56
           },
           {
             "name": {
               "chinese": "李丽华",
-              "english": "Not Wang"
+              "english": "Li3 Li4 Hua2"
             },
             "isMale": false,
+            "hasBio": true,
             "id": 57
           }
         ],
@@ -821,18 +835,20 @@
           {
             "name": {
               "chinese": "王久缄",
-              "english": "Wang"
+              "english": "Wang2 Jiu3 Jian3"
             },
             "isWang": true,
             "isMale": true,
+            "hasBio": true,
             "id": 58
           },
           {
             "name": {
               "chinese": "梁纯英",
-              "english": "Not Wang"
+              "english": "Liang2 Chun2 Ying1"
             },
             "isMale": false,
+            "hasBio": true,
             "id": 59
           }
         ],
@@ -850,26 +866,29 @@
           {
             "name": {
               "chinese": "王琪",
-              "english": "Wang"
+              "english": "Wang2 Qi2"
             },
             "isWang": true,
             "isMale": false,
+            "hasBio": true,
             "id": 60
           },
           {
             "name": {
               "chinese": "张国泰",
-              "english": "Not Wang"
+              "english": "Zhang1 Guo2 Tai4"
             },
             "isMale": true,
+            "hasBio": true,
             "id": 61
           },
           {
             "name": {
               "chinese": "池振英",
-              "english": "Not Wang"
+              "english": "Chi2 Zhen4 Ying1"
             },
             "isMale": true,
+            "hasBio": true,
             "id": 62
           }
         ],
@@ -887,18 +906,20 @@
           {
             "name": {
               "chinese": "王少方",
-              "english": "Wang"
+              "english": "Wang2 Shao4 Fang1"
             },
             "isWang": true,
             "isMale": true,
+            "hasBio": true,
             "id": 63
           },
           {
             "name": {
               "chinese": "陆丽施",
-              "english": "Not Wang"
+              "english": "Lu4 Li4 Shi1"
             },
             "isMale": false,
+            "hasBio": true,
             "id": 64
           }
         ],
@@ -916,18 +937,20 @@
           {
             "name": {
               "chinese": "王久纶",
-              "english": "Wang"
+              "english": "Wang2 Jiu3 Lun2"
             },
             "isWang": true,
             "isMale": true,
+            "hasBio": true,
             "id": 65
           },
           {
             "name": {
               "chinese": "王惠英",
-              "english": "Not Wang"
+              "english": "Wang2 Hui4 Ying1"
             },
             "isMale": false,
+            "hasBio": true,
             "id": 66
           }
         ],
@@ -945,18 +968,20 @@
           {
             "name": {
               "chinese": "王久绅",
-              "english": "Wang"
+              "english": "Wang2 Jiu3 Shen1"
             },
             "isWang": true,
             "isMale": true,
+            "hasBio": true,
             "id": 67
           },
           {
             "name": {
               "chinese": "冯惠姝",
-              "english": "Not Wang"
+              "english": "Feng2 Hui4 Shu1"
             },
             "isMale": false,
+            "hasBio": true,
             "id": 68
           }
         ],
@@ -974,18 +999,20 @@
           {
             "name": {
               "chinese": "王珊",
-              "english": "Wang"
+              "english": "Wang2 Shan1"
             },
             "isWang": true,
             "isMale": false,
+            "hasBio": true,
             "id": 69
           },
           {
             "name": {
               "chinese": "冯学理",
-              "english": "Not Wang"
+              "english": "Feng2 Xue2 Li3"
             },
             "isMale": true,
+            "hasBio": true,
             "id": 70
           }
         ],
@@ -1003,18 +1030,20 @@
           {
             "name": {
               "chinese": "王玥",
-              "english": "Wang"
+              "english": "Wang2 Yue4"
             },
             "isWang": true,
             "isMale": false,
+            "hasBio": true,
             "id": 71
           },
           {
             "name": {
-              "chinese": "宁锦",
-              "english": "Not Wang"
+              "chinese": "宁锦衷",
+              "english": "Ning4 Jin3 Zhong1"
             },
             "isMale": true,
+            "hasBio": true,
             "id": 72
           }
         ],
@@ -1031,17 +1060,18 @@
         "names": [
           {
             "name": {
-              "chinese": "王久绵(王显)",
-              "english": "Wang"
+              "chinese": "王久绵 (王显)",
+              "english": "Wang2 Jiu3 Mian2 (Wang2 Xian3)"
             },
             "isWang": true,
             "isMale": true,
+            "hasBio": true,
             "id": 73
           },
           {
             "name": {
               "chinese": "宫起鹏",
-              "english": "Not Wang"
+              "english": "Gong1 Qi3 Peng2"
             },
             "isMale": false,
             "id": 74
@@ -1049,9 +1079,10 @@
           {
             "name": {
               "chinese": "余琳",
-              "english": "Not Wang"
+              "english": "Yu2 Lin2"
             },
             "isMale": false,
+            "hasBio": true,
             "id": 75
           }
         ],
@@ -1069,19 +1100,31 @@
           {
             "name": {
               "chinese": "王久纯",
-              "english": "Wang"
+              "english": "Wang2 Jiu3 Chun2"
             },
             "isWang": true,
             "isMale": true,
+            "hasBio": true,
             "id": 76
           },
           {
             "name": {
               "chinese": "晋军",
-              "english": "Not Wang"
+              "english": "Jin4 Jun1"
             },
             "isMale": false,
+            "hasBio": true,
             "id": 77
+          },
+          {
+            "name": {
+              "chinese": "张琪文",
+              "english": "Zhang1 Qi2 Wen2"
+            },
+            "isWang": false,
+            "isMale": false,
+            "hasBio": true,
+            "id": 200
           }
         ],
         "ageOrder": 1
@@ -1098,16 +1141,17 @@
           {
             "name": {
               "chinese": "王遂",
-              "english": "Wang"
+              "english": "Wang2 Sui2"
             },
             "isWang": true,
             "isMale": false,
+            "hasBio": true,
             "id": 78
           },
           {
             "name": {
               "chinese": "庞元鑫",
-              "english": "Not Wang"
+              "english": "Pang2 Yuan2 Xin1"
             },
             "isMale": true,
             "id": 79
@@ -1126,19 +1170,20 @@
         "names": [
           {
             "name": {
-              "chinese": "王行(王衍)",
-              "english": "Wang"
+              "chinese": "王行 (王衍)",
+              "english": "Wang2 Xing2 (Wang2 Yan3)"
             },
             "isWang": true,
             "isMale": true,
+            "hasBio": true,
             "id": 80
           },
           {
             "name": {
               "chinese": "陈洁文",
-              "english": "Not Wang"
+              "english": "Chen2 Jie2 Wen2"
             },
-            "isMale": true,
+            "hasBio": true,
             "id": 81
           }
         ],
@@ -1156,10 +1201,11 @@
           {
             "name": {
               "chinese": "王传方",
-              "english": "Wang"
+              "english": "Wang2 Chuan2 Fang1"
             },
             "isWang": true,
             "isMale": true,
+            "hasBio": true,
             "id": 82
           }
         ],
@@ -1177,10 +1223,11 @@
           {
             "name": {
               "chinese": "王智",
-              "english": "Wang"
+              "english": "Wang2 Zhi4"
             },
             "isWang": true,
             "isMale": true,
+            "hasBio": true,
             "id": 83
           }
         ],
@@ -1198,10 +1245,11 @@
           {
             "name": {
               "chinese": "王真",
-              "english": "Wang"
+              "english": "Wang2 Zhen1"
             },
             "isWang": true,
             "isMale": false,
+            "hasBio":true,
             "id": 84
           }
         ],
@@ -1219,18 +1267,20 @@
           {
             "name": {
               "chinese": "王诚",
-              "english": "Wang"
+              "english": "Wang2 Cheng2"
             },
             "isWang": true,
             "isMale": true,
+            "hasBio": true,
             "id": 85
           },
           {
             "name": {
               "chinese": "王晨",
-              "english": "Wang"
+              "english": "Wang2 Chen2"
             },
             "isMale": false,
+            "hasBio": true,
             "id": 86
           }
         ],
@@ -1248,18 +1298,20 @@
           {
             "name": {
               "chinese": "王莉",
-              "english": "Wang"
+              "english": "Wang2 Li4 [Lily Wang]"
             },
             "isWang": true,
             "isMale": false,
+            "hasBio": true,
             "id": 87
           },
           {
             "name": {
               "chinese": "黄啟彰",
-              "english": "Wang"
+              "english": "Huang2 Qi3 Zhang [John Huang]"
             },
             "isMale": true,
+            "hasBio": true,
             "id": 88
           }
         ],
@@ -1277,18 +1329,20 @@
           {
             "name": {
               "chinese": "王强",
-              "english": "Wang"
+              "english": "Wang2 Qiang2 [Charlie Wang]"
             },
             "isWang": true,
             "isMale": true,
+            "hasBio": true,
             "id": 89
           },
           {
             "name": {
               "chinese": "刘君波",
-              "english": "Wang"
+              "english": "Liu2 Jun1 Bo1"
             },
             "isMale": false,
+            "hasBio": true,
             "id": 90
           }
         ],
@@ -1306,18 +1360,20 @@
           {
             "name": {
               "chinese": "王小来",
-              "english": "Wang"
+              "english": "Wang2 Xiao3 Lai2"
             },
             "isWang": true,
             "isMale": true,
+            "hasBio": true,
             "id": 91
           },
           {
             "name": {
               "chinese": "李君",
-              "english": "Wang"
+              "english": "Li3 Jun1"
             },
             "isMale": false,
+            "hasBio": true,
             "id": 92
           }
         ],
@@ -1335,7 +1391,7 @@
           {
             "name": {
               "chinese": "王薇",
-              "english": "Wang"
+              "english": "Wang2 Wei1"
             },
             "isWang": true,
             "isMale": false,
@@ -1356,10 +1412,11 @@
           {
             "name": {
               "chinese": "王禾",
-              "english": "Wang"
+              "english": "Wang2 He2"
             },
             "isWang": true,
             "isMale": false,
+            "hasBio": true,
             "id": 94
           }
         ],
@@ -1377,18 +1434,20 @@
           {
             "name": {
               "chinese": "王刚",
-              "english": "Wang"
+              "english": "Wang2 Gang1"
             },
             "isWang": true,
             "isMale": true,
+            "hasBio": true,
             "id": 95
           },
           {
             "name": {
               "chinese": "赵婉生",
-              "english": "Wang"
+              "english": "Zhao4 Wang3 Sheng1"
             },
             "isMale": false,
+            "hasBio": true,
             "id": 96
           }
         ],
@@ -1406,10 +1465,11 @@
           {
             "name": {
               "chinese": "王梓熠",
-              "english": "Wang"
+              "english": "Wang2 Zi3 Yi4"
             },
             "isWang": true,
             "isMale": true,
+            "hasBio": true,
             "id": 97
           }
         ],
@@ -1423,14 +1483,15 @@
     {
       "id": "49",
       "data": {
-        "names": [
+        "names": [ 
           {
             "name": {
-              "chinese": "王婉玉",
-              "english": "Wang"
+              "chinese": "王琬玉",
+              "english": "Wang2 Wan3 Yu4 [Theresa Wang]"
             },
             "isWang": true,
             "isMale": false,
+            "hasBio": true,
             "id": 98
           }
         ],
@@ -1448,21 +1509,21 @@
           {
             "name": {
               "chinese": "王大明",
-              "english": "Timothy Wang"
+              "english": "Wang2 Da4 Ming2 [Timothy Wang]"
             },
             "isWang": true,
             "isMale": true,
             "hasBio": true,
-            "id": 98
+            "id": 99
           },
           {
             "name": {
-              "chinese": "沛欣",
-              "english": "Madeleine Herring"
+              "chinese": "何沛欣",
+              "english": "He2 Pei4 Xin1 [Madeleine H. Wang]"
             },
             "isWang": false,
             "isMale": false,
-            "id": 99,
+            "id": 100,
             "hasBio": true
           }
         ],
@@ -1480,11 +1541,12 @@
           {
             "name": {
               "chinese": "晋伊",
-              "english": "Wang"
+              "english": "Jin4 Yi1"
             },
             "isWang": true,
             "isMale": false,
-            "id": 100
+            "hasBio": true,
+            "id": 101
           }
         ],
         "ageOrder": 1

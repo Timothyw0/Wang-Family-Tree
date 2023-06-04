@@ -1,6 +1,7 @@
 import { memo, useState } from "react";
 import {
   Box,
+  Button,
   Card,
   CardHeader,
   CardBody,
@@ -12,11 +13,26 @@ import {
   Text,
 } from "@chakra-ui/react";
 import { InfoIcon, StarIcon } from "@chakra-ui/icons";
+import { toPng } from "html-to-image";
 import { useLanguageSelector } from "../../hooks/useLanguageSelector";
 
 const Legend = () => {
   const [showLegend, setShowLegend] = useState<boolean>(false);
   const { textLang } = useLanguageSelector("legend");
+
+  const downloadImage = async () => {
+    const reactFlow: HTMLElement = document.querySelector(".react-flow")!;
+    const reactPicture = await toPng(reactFlow, {
+      backgroundColor: "#fff",
+    });
+    const a = document.createElement("a");
+
+    a.setAttribute("download", "Wang-Family-Tree.png");
+    a.setAttribute("href", reactPicture);
+    a.click();
+
+    a.remove();
+  };
 
   return showLegend ? (
     <Card>
@@ -42,6 +58,7 @@ const Legend = () => {
               </Box>
             );
           })}
+          <Button onClick={downloadImage}>{textLang?.downloadText}</Button>
         </Stack>
       </CardBody>
     </Card>

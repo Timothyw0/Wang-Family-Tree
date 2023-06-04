@@ -1184,6 +1184,7 @@
               "chinese": "陈洁文",
               "english": "Chen2 Jie2 Wen2"
             },
+            "hasBio": true,
             "id": 81
           }
         ],
@@ -1469,6 +1470,7 @@
             },
             "isWang": true,
             "isMale": true,
+            "hasBio": true,
             "id": 97
           }
         ],

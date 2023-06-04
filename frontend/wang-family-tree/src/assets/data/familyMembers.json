@@ -838,13 +838,30 @@
       "english": "Wang2 Xing2 (Wang2 Yan3)"
     },
     "bio": {
-      "chinese": ["1981年6月16日 - 现今 (属鸡)"],
-      "english": ["June 16, 1981 - Present (Rooster)"]
+      "chinese": ["1981年7月17日 - 现今 (属鸡)"],
+      "english": ["July 17, 1981 - Present (Rooster)"]
+    },
+    "photoURLs": [
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangXing/1.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangXing/2.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangXing/3.jpg"
+    ]
+  },
+  {
+    "memberId": "81",
+    "name": {
+      "chinese": "陈洁文",
+      "english": "Chen2 Jie2 Wen2"
+    },
+    "bio": {
+      "chinese": ["1983年9月12日 - 现今 (属猪)"],
+      "english": ["September 12, 1983 - Present (Pig)"]
     },
     "photoURLs": [
       "https://wang-photo.s3.ap-southeast-1.amazonaws.com/blank-image.jpg"
     ]
   },
+
   {
     "memberId": "101",
     "name": {
@@ -928,6 +945,24 @@
       "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangWanYu/3.jpg",
       "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangWanYu/4.jpg",
       "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangWanYu/5.jpg"
+    ]
+  },
+  {
+    "memberId": "97",
+    "name": {
+      "chinese": "王梓熠",
+      "english": "Wang2 Zi3 Yi4"
+    },
+    "bio": {
+      "chinese": ["2015年3月10日 - 现今 (属羊)"],
+      "english": ["March 10, 2015 - Present (Goat)"]
+    },
+    "photoURLs": [
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangZiYi/1.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangZiYi/2.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangZiYi/3.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangZiYi/4.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangZiYi/5.jpg"
     ]
   },
 

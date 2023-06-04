@@ -1,24 +1,5 @@
 [
   {
-    "memberId": "0",
-    "name": {
-      "chinese": "振宗王府君",
-      "english": "Wang Something"
-    },
-    "bio": {
-      "chinese": ["Chinese bio here"],
-      "english": ["Born in ajsdlfjasldijfiajwerflijalsjdflij"]
-    },
-    "photoURLs": [
-      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/blank-image.jpg",
-      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/LBXX.jpg",
-      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/blank-image.jpg",
-      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/blank-image.jpg",
-      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/LBXX.jpg",
-      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/LBXX.jpg"
-    ]
-  },
-  {
     "memberId": "39",
     "name": {
       "chinese": "名王槐荫，号王午亭。",

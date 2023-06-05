@@ -496,7 +496,9 @@
     },
     "photoURLs": [
       "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangJiuJian/1.jpg",
-      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangJiuJian/2.jpg"
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangJiuJian/2.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangJiuJian/3.jpg",
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangJiuJian/4.jpg"
     ]
   },
   {
@@ -510,7 +512,7 @@
       "english": ["August 23, 1951 - Present (Rabbit)"]
     },
     "photoURLs": [
-      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/blank-image.jpg"
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/LiangChunYing/1.jpg"
     ]
   },
   {

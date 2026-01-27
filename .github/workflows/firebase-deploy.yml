@@ -37,4 +37,4 @@ jobs:
           firebaseServiceAccount: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_WANG_FAMILY_TREE }}
           channelId: live
           projectId: wang-family-tree
-          entryPoint: frontend/wang-family-tree
+          entryPoint: ./frontend/wang-family-tree

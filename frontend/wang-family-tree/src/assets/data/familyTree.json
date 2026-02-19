@@ -1493,6 +1493,16 @@
             "isMale": false,
             "hasBio": true,
             "id": 98
+          },
+          {
+            "name": {
+              "chinese": "托马斯",
+              "english": "Thomas Maguire"
+            },
+            "isWang": false,
+            "isMale": true,
+            "hasBio": true,
+            "id": 201
           }
         ],
         "ageOrder": 2

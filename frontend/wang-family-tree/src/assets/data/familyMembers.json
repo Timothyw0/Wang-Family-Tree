@@ -950,6 +950,20 @@
     ]
   },
   {
+    "memberId": "201",
+    "name": {
+      "chinese": "托马斯",
+      "english": "Thomas Maguire"
+    },
+    "bio": {
+      "chinese": [],
+      "english": ["February 18, 1998 - Present (Tiger)", "Thomas Maguire married Theresa Wang on February 1, 2025."]
+    },
+    "photoURLs": [
+      "https://wang-photo.s3.ap-southeast-1.amazonaws.com/blank-image.jpg"
+    ]
+  },
+  {
     "memberId": "97",
     "name": {
       "chinese": "王梓熠",

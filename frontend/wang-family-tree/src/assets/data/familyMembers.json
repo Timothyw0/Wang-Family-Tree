@@ -242,8 +242,8 @@
       "english": "Wang2 Jiu3 Chun2"
     },
     "bio": {
-      "chinese": ["1929年8月19日 - ? (属蛇) "],
-      "english": ["August 19, 1929 - ? (Snake)"]
+      "chinese": ["1929年8月19日 - 2020年8月15日 (属蛇) "],
+      "english": ["August 19, 1929 - August 15, 2020 (Snake)"]
     },
     "photoURLs": [
       "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangJiuChun/1.jpg",
@@ -294,8 +294,8 @@
       "english": "Wang2 Jiu3 Mian2 (Wang2 Xian3)"
     },
     "bio": {
-      "chinese": ["1932年10月26日 - ? (属猴)"],
-      "english": ["October 26, 1932 - ? (Monkey)"]
+      "chinese": ["1932年10月26日 - 2022年2月27日 (属猴)"],
+      "english": ["October 26, 1932 - February 27, 2022 (Monkey)"]
     },
     "photoURLs": [
       "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangXian/1.jpg",
@@ -310,8 +310,8 @@
       "english": "Yu2 Lin2"
     },
     "bio": {
-      "chinese": ["1935年3月17日 - 现今 (属猪)"],
-      "english": ["March 17, 1935 - Present (Pig)"]
+      "chinese": ["1935年3月17日 - 2024年4月23日 (属猪)"],
+      "english": ["March 17, 1935 - April 23, 2024 (Pig)"]
     },
     "photoURLs": [
       "https://wang-photo.s3.ap-southeast-1.amazonaws.com/YuLin/1.jpg"
@@ -353,8 +353,8 @@
       "english": "Wang2 Shan1"
     },
     "bio": {
-      "chinese": ["1933年11月2日 - 现今 (属鸡)"],
-      "english": ["November 2, 1933 - Present (Rooster)"]
+      "chinese": ["1933年11月2日 - 2024年10月4日 (属鸡)"],
+      "english": ["November 2, 1933 - October 4, 2024 (Rooster)"]
     },
     "photoURLs": [
       "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangShan/1.jpg",
@@ -432,8 +432,8 @@
       "english": "Wang2 Jiu3 Lun2"
     },
     "bio": {
-      "chinese": ["1940年x月x日 - 现今 (属龙)"],
-      "english": ["1949 - Present (Dragon)"]
+      "chinese": ["1940年x月x日 - 2025年9月2日 (属龙)"],
+      "english": ["1949 - September 2, 2025 (Dragon)"]
     },
     "photoURLs": [
       "https://wang-photo.s3.ap-southeast-1.amazonaws.com/WangJiuLun/1.jpg",
